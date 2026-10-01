@@ -1,0 +1,3 @@
+dbt-core>=1.10
+dbt-duckdb>=1.10     # local practice target
+dbt-bigquery>=1.10   # production target

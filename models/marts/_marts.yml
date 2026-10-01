@@ -1,0 +1,78 @@
+version: 2
+
+models:
+  # ---------- marketing ----------
+  - name: dim_contacts
+    description: >
+      Single source of truth for contacts/customers. One row per non-deleted HubSpot contact,
+      enriched with deal and subscription facts. All teams read contacts from here.
+    columns:
+      - name: contact_id
+        data_tests: [unique, not_null]
+      - name: email
+        data_tests: [unique, not_null]
+      - name: channel
+        description: Acquisition channel (first touch, from HubSpot original source).
+      - name: current_mrr_eur
+        description: Sum of MRR of the contact's non-cancelled subscriptions.
+        data_tests: [not_null, non_negative]
+
+  - name: fct_deals
+    description: One row per HubSpot deal with the contact's acquisition channel.
+    columns:
+      - name: deal_id
+        data_tests: [unique, not_null]
+      - name: days_to_close
+        data_tests: [non_negative]
+
+  - name: mart_channel_funnel_monthly
+    description: Funnel counts and conversion rates by sign-up month and channel (Looker Studio source).
+    data_tests:
+      - unique_combination:
+          arguments:
+            columns: [created_month, channel]
+    columns:
+      - name: contacts
+        data_tests: [not_null]
+      - name: contact_to_customer_rate
+        description: customers / contacts. Null if no contacts.
+
+  # ---------- product ----------
+  - name: fct_product_events
+    description: >
+      Incremental fact table of product events. Partitioned by event_date and clustered
+      by user_id, event_name on BigQuery.
+    columns:
+      - name: event_id
+        data_tests: [unique, not_null]
+      - name: event_at
+        data_tests: [not_null, not_in_future]
+
+  - name: fct_daily_active_users
+    columns:
+      - name: event_date
+        data_tests: [unique, not_null]
+      - name: daily_active_users
+        data_tests: [not_null]
+
+  - name: mart_cohort_retention
+    description: Share of each monthly customer cohort active N months after starting.
+    data_tests:
+      - unique_combination:
+          arguments:
+            columns: [cohort_month, months_since_start]
+    columns:
+      - name: retention_rate
+        description: active_users / cohort_size. Month 0 should be close to 1.
+        data_tests: [non_negative]
+
+  # ---------- finance ----------
+  - name: fct_mrr_monthly
+    description: >
+      Monthly MRR bridge (opening + new - churned = closing) with ARR and logo churn.
+      Reconciliation is enforced by tests/assert_mrr_bridge_reconciles.sql.
+    columns:
+      - name: month_start
+        data_tests: [unique, not_null]
+      - name: closing_mrr_eur
+        data_tests: [not_null, non_negative]

@@ -1,0 +1,746 @@
+contact_id,email,firstname,company,lifecyclestage,hs_analytics_source,utm_campaign,createdate,lastmodifieddate,is_deleted
+100160,paul.100160@example.com,Paul,Paul Consulting,lead,EMAIL_MARKETING,newsletter,2025-04-27 22:57:48,2025-04-28 00:57:48,false
+100057,sara.100057@example.com,Sara,Sara Studio,marketingqualifiedlead,ORGANIC_SEARCH,,2026-04-10 03:46:36,2026-04-29 06:46:36,false
+100068,lukas.100068@example.com,Lukas,Lukas Coaching,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-02-16 20:38:24,2026-03-27 23:38:24,false
+100630,  LEON.100630@EXAMPLE.COM ,Leon,Leon Academy,lead,DIRECT_TRAFFIC,,2025-08-23 07:05:24,2025-09-01 10:05:24,false
+100435,Emma.100435@example.com,Emma,Emma Coaching,customer,PAID_SEARCH,gads_lms_competitor,2025-03-24 19:46:17,2025-05-04 22:46:17,false
+100458,paul.100458@example.com,Paul,Paul Consulting,lead,PAID_SEARCH,gads_online_course_platform,2026-03-08 13:54:07,2026-04-04 16:54:07,false
+100241,paul.100241@example.com,Paul,Paul Consulting,lead,ORGANIC_SEARCH,,2026-04-14 17:28:43,2026-06-06 20:28:43,false
+100171,lukas.100171@example.com,Lukas,Lukas Academy,lead,EMAIL_MARKETING,newsletter,2026-07-18 23:39:31,2026-08-23 02:39:31,false
+100049,leon.100049@example.com,Leon,Leon Akademie,lead,REFERRALS,,2025-04-19 17:49:12,2025-04-19 19:49:12,false
+100135,Mia.100135@example.com,Mia,Mia Akademie,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2025-06-04 23:20:48,2025-06-18 02:20:48,false
+100012,anna.100012@example.com,Anna,Anna Academy,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-07-18 09:01:23,2026-08-23 12:01:23,false
+100218,lea.100218@example.com,Lea,Lea Training GmbH,opportunity,PAID_SOCIAL,linkedin_b2b_onboarding,2025-01-02 18:52:03,2025-02-17 21:52:03,false
+100238,david.100238@example.com,David,David Coaching,customer,ORGANIC_SEARCH,,2025-02-05 00:24:46,2025-02-20 03:24:46,false
+100665,  JONAS.100665@EXAMPLE.COM ,Jonas,Jonas Consulting,opportunity,PAID_SOCIAL,meta_coaches_q1,2025-12-13 21:17:59,2026-01-05 00:17:59,false
+100351,lea.100351@example.com,Lea,Lea Training GmbH,customer,DIRECT_TRAFFIC,,2025-11-19 04:11:13,2025-12-15 07:11:13,false
+100471,  PAUL.100471@EXAMPLE.COM ,Paul,Paul Academy,lead,DIRECT_TRAFFIC,,2025-06-28 03:48:16,2025-07-06 06:48:16,false
+100447,julia.100447@example.com,Julia,Julia Training GmbH,opportunity,DIRECT_TRAFFIC,,2025-09-16 01:56:36,2025-10-24 04:56:36,false
+100394,paul.100394@example.com,Paul,Paul Coaching,marketingqualifiedlead,ORGANIC_SEARCH,,2026-01-17 07:33:01,2026-02-22 10:33:01,false
+100377,anna.100377@example.com,Anna,Anna Academy,subscriber,PAID_SEARCH,gads_lms_competitor,2026-09-07 08:49:15,2026-09-15 00:00:00,false
+100081,nina.100081@example.com,Nina,Nina Training GmbH,subscriber,REFERRALS,,2025-01-16 09:18:18,2025-03-03 12:18:18,false
+100484,sara.100484@example.com,Sara,Sara Training GmbH,opportunity,PAID_SEARCH,gads_brand,2026-02-27 04:42:26,2026-04-11 07:42:26,false
+100082,nina.100082@example.com,Nina,Nina Academy,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-08-08 23:42:38,2025-08-21 02:42:38,false
+100172,julia.100172@example.com,Julia,Julia Academy,subscriber,EMAIL_MARKETING,webinar_followup,2025-12-28 15:27:02,2026-02-13 18:27:02,false
+100097,nina.100097@example.com,Nina,Nina Training GmbH,subscriber,PAID_SEARCH,gads_brand,2026-08-29 08:33:01,2026-09-11 11:33:01,false
+100355,anna.100355@example.com,Anna,Anna Coaching,customer,ORGANIC_SEARCH,,2026-01-07 11:22:40,2026-02-20 14:22:40,false
+100528,laura.100528@example.com,Laura,Laura Studio,customer,ORGANIC_SEARCH,,2025-06-23 22:11:15,2025-07-31 01:11:15,false
+100521,david.100521@example.com,David,David Training GmbH,customer,ORGANIC_SEARCH,,2025-01-09 03:38:07,2025-02-17 06:38:07,false
+100317,Emma.100317@example.com,Emma,Emma Coaching,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-07-31 17:22:21,2025-09-18 20:22:21,false
+100416,jonas.100416@example.com,Jonas,Jonas Consulting,lead,PAID_SEARCH,gads_lms_competitor,2025-09-18 03:51:39,2025-10-09 06:51:39,false
+100339,david.100339@example.com,David,David Studio,customer,PAID_SEARCH,gads_online_course_platform,2026-07-16 13:59:52,2026-08-07 16:59:52,false
+100488,mia.100488@example.com,Mia,Mia Coaching,subscriber,REFERRALS,,2026-07-21 08:21:27,2026-09-12 11:21:27,false
+100262,anna.100262@example.com,Anna,Anna Akademie,subscriber,DIRECT_TRAFFIC,,2025-08-02 06:48:31,2025-09-25 09:48:31,false
+100160,paul.100160@example.com,Paul,Paul Consulting,lead,EMAIL_MARKETING,newsletter,2025-04-27 22:57:48,2025-05-30 01:57:48,false
+100536,lukas.100536@example.com,Lukas,Lukas Consulting,customer,ORGANIC_SEARCH,,2026-07-13 18:52:15,2026-07-31 21:52:15,false
+100264,anna.100264@example.com,Anna,Anna Academy,customer,REFERRALS,,2025-10-30 18:59:36,2025-12-11 21:59:36,false
+100296,nina.100296@example.com,Nina,Nina Coaching,customer,PAID_SOCIAL,meta_coaches_q1,2026-07-28 19:52:33,2026-09-15 00:00:00,false
+100660,emma.100660@example.com,Emma,Emma Consulting,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-03-06 10:59:09,2025-04-21 13:59:09,false
+100258,noah.100258@example.com,Noah,Noah Training GmbH,lead,PAID_SEARCH,gads_lms_competitor,2025-03-28 16:13:56,2025-03-28 18:13:56,false
+100575,lea.100575@example.com,Lea,Lea Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2025-05-28 11:32:44,2025-05-28 14:32:44,false
+100460,nina.100460@example.com,Nina,Nina Training GmbH,salesqualifiedlead,DIRECT_TRAFFIC,,2025-02-10 14:08:26,2025-02-14 17:08:26,false
+100425,sophie.100425@example.com,Sophie,Sophie Coaching,customer,ORGANIC_SEARCH,,2025-06-19 16:43:57,2025-07-08 19:43:57,false
+100657,julia.100657@example.com,Julia,Julia Coaching,salesqualifiedlead,ORGANIC_SEARCH,,2026-09-08 20:07:02,2026-09-15 00:00:00,false
+100540,david.100540@example.com,David,David Studio,customer,REFERRALS,,2025-12-30 12:35:01,2026-01-29 15:35:01,false
+100487,  DAVID.100487@EXAMPLE.COM ,David,David Academy,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-02-03 14:53:56,2025-03-22 17:53:56,false
+100248,lukas.100248@example.com,Lukas,Lukas Academy,customer,PAID_SEARCH,gads_brand,2025-07-08 02:14:23,2025-08-09 05:14:23,false
+100519,  LUKAS.100519@EXAMPLE.COM ,Lukas,Lukas Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2026-07-12 14:38:08,2026-07-20 17:38:08,false
+100285,Max.100285@example.com,Max,Max Training GmbH,salesqualifiedlead,EMAIL_MARKETING,newsletter,2025-07-30 07:10:41,2025-09-28 10:10:41,false
+100520,tim.100520@example.com,Tim,Tim Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2026-04-12 20:56:17,2026-05-31 23:56:17,false
+100606,ben.100606@example.com,Ben,Ben Akademie,opportunity,ORGANIC_SEARCH,,2025-02-20 22:55:03,2025-04-20 01:55:03,false
+100041,nina.100041@example.com,Nina,Nina Training GmbH,marketingqualifiedlead,ORGANIC_SEARCH,,2025-11-22 02:37:47,2026-01-04 05:37:47,false
+100038,leon.100038@example.com,Leon,Leon Consulting,customer,ORGANIC_SEARCH,,2026-01-18 07:46:16,2026-02-01 10:46:16,false
+100529,mia.100529@example.com,Mia,Mia Academy,subscriber,DIRECT_TRAFFIC,,2026-04-24 17:16:31,2026-05-08 20:16:31,false
+100176,hannah.100176@example.com,Hannah,Hannah Studio,customer,EMAIL_MARKETING,newsletter,2026-07-21 19:50:23,2026-08-02 22:50:23,false
+100614,sophie.100614@example.com,Sophie,Sophie Coaching,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2026-05-22 18:04:05,2026-06-05 21:04:05,false
+100187,max.100187@example.com,Max,Max Akademie,lead,EMAIL_MARKETING,newsletter,2026-06-21 03:30:59,2026-08-05 06:30:59,false
+100674,tim.100674@example.com,Tim,Tim Coaching,lead,PAID_SOCIAL,meta_lookalike,2026-05-15 08:08:51,2026-06-20 11:08:51,false
+100074,max.100074@example.com,Max,Max Academy,lead,ORGANIC_SEARCH,,2025-07-24 13:57:49,2025-07-24 15:57:49,false
+100184,felix.100184@example.com,Felix,Felix Consulting,customer,ORGANIC_SEARCH,,2025-05-14 23:18:24,2025-07-05 02:18:24,false
+100286,sara.100286@example.com,Sara,Sara Academy,lead,PAID_SEARCH,gads_online_course_platform,2025-06-18 22:50:47,2025-07-23 01:50:47,false
+100501,anna.100501@example.com,Anna,Anna Studio,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-04-27 22:55:54,2026-06-09 01:55:54,false
+100216,felix.100216@example.com,Felix,Felix Consulting,lead,ORGANIC_SEARCH,,2026-08-26 08:57:18,2026-09-10 11:57:18,false
+100425,sophie.100425@example.com,Sophie,Sophie Coaching,lead,ORGANIC_SEARCH,,2025-06-19 16:43:57,2025-06-19 18:43:57,false
+100008,lukas.100008@example.com,Lukas,Lukas Consulting,customer,REFERRALS,,2026-07-15 01:32:43,2026-08-16 04:32:43,false
+100625,Emma.100625@example.com,Emma,Emma Academy,subscriber,ORGANIC_SEARCH,,2025-03-19 13:47:45,2025-05-10 16:47:45,false
+100305,ben.100305@example.com,Ben,Ben Consulting,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-10-27 22:35:32,2025-12-11 01:35:32,false
+100231,ben.100231@example.com,Ben,Ben Coaching,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-04-08 21:09:54,2025-05-17 00:09:54,false
+100386,paul.100386@example.com,Paul,Paul Academy,opportunity,ORGANIC_SEARCH,,2025-09-05 20:31:35,2025-10-31 23:31:35,false
+100391,nina.100391@example.com,Nina,Nina Academy,customer,PAID_SEARCH,gads_online_course_platform,2026-08-23 03:10:31,2026-09-15 00:00:00,false
+100636,mia.100636@example.com,Mia,Mia Training GmbH,customer,ORGANIC_SEARCH,,2025-10-29 21:30:41,2025-10-30 00:30:41,false
+100334,mia.100334@example.com,Mia,Mia Studio,salesqualifiedlead,REFERRALS,,2025-02-09 21:45:51,2025-04-05 00:45:51,false
+100365,ben.100365@example.com,Ben,Ben Training GmbH,customer,REFERRALS,,2025-08-05 04:04:30,2025-08-22 07:04:30,false
+100025,anna.100025@example.com,Anna,Anna Consulting,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-03-21 23:12:28,2026-04-20 02:12:28,false
+100280,anna.100280@example.com,Anna,Anna Akademie,customer,DIRECT_TRAFFIC,,2025-12-21 05:22:51,2026-01-12 08:22:51,false
+100681,sophie.100681@example.com,Sophie,Sophie Coaching,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-04-01 16:37:35,2026-04-10 19:37:35,false
+100291,paul.100291@example.com,Paul,Paul Academy,lead,PAID_SEARCH,gads_online_course_platform,2025-08-17 21:22:17,2025-09-22 00:22:17,false
+100217,lea.100217@example.com,Lea,Lea Akademie,customer,PAID_SOCIAL,meta_lookalike,2025-07-27 23:48:09,2025-07-30 02:48:09,false
+100400,anna.100400@example.com,Anna,Anna Coaching,lead,PAID_SOCIAL,meta_lookalike,2026-06-30 16:52:09,2026-06-30 18:52:09,false
+100045,laura.100045@example.com,Laura,Laura Training GmbH,customer,ORGANIC_SEARCH,,2025-06-05 13:47:56,2025-07-30 16:47:56,false
+100110,hannah.100110@example.com,Hannah,Hannah Training GmbH,salesqualifiedlead,PAID_SEARCH,gads_brand,2025-04-26 06:20:59,2025-04-26 09:20:59,false
+100402,tim.100402@example.com,Tim,Tim Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2026-05-07 18:18:21,2026-06-17 21:18:21,false
+100204,laura.100204@example.com,Laura,Laura Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2026-05-25 17:09:21,2026-06-25 20:09:21,false
+100313,david.100313@example.com,David,David Training GmbH,lead,PAID_SOCIAL,meta_coaches_q1,2026-01-05 13:25:47,2026-02-11 16:25:47,false
+100382,nina.100382@example.com,Nina,Nina Coaching,customer,EMAIL_MARKETING,newsletter,2025-04-16 05:51:22,2025-05-18 08:51:22,false
+100331,sara.100331@example.com,Sara,Sara Akademie,customer,ORGANIC_SEARCH,,2026-04-04 03:41:20,2026-05-30 06:41:20,false
+100246,hannah.100246@example.com,Hannah,Hannah Akademie,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-03-17 10:05:29,2025-03-19 13:05:29,false
+100188,max.100188@example.com,Max,Max Academy,subscriber,PAID_SEARCH,gads_lms_competitor,2025-07-03 13:34:11,2025-08-07 16:34:11,false
+100535,anna.100535@example.com,Anna,Anna Studio,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2026-06-19 03:48:18,2026-08-16 06:48:18,false
+100448,lea.100448@example.com,Lea,Lea Consulting,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-04-01 21:55:40,2026-05-04 00:55:40,false
+100373,hannah.100373@example.com,Hannah,Hannah Coaching,subscriber,ORGANIC_SEARCH,,2025-02-20 04:46:59,2025-04-14 07:46:59,false
+100269,lukas.100269@example.com,Lukas,Lukas Akademie,customer,ORGANIC_SEARCH,,2025-05-21 03:23:21,2025-06-05 06:23:21,false
+100684,hannah.100684@example.com,Hannah,Hannah Academy,salesqualifiedlead,ORGANIC_SEARCH,,2026-03-23 15:26:36,2026-03-28 18:26:36,false
+100319,hannah.100319@example.com,Hannah,Hannah Akademie,lead,DIRECT_TRAFFIC,,2026-08-16 09:01:41,2026-09-15 00:00:00,false
+100357,sara.100357@example.com,Sara,Sara Akademie,marketingqualifiedlead,EMAIL_MARKETING,webinar_followup,2026-07-18 04:39:42,2026-08-24 07:39:42,false
+100427,  LEA.100427@EXAMPLE.COM ,Lea,Lea Training GmbH,salesqualifiedlead,PAID_SEARCH,gads_brand,2026-02-13 17:19:50,2026-02-24 20:19:50,false
+100181,sara.100181@example.com,Sara,Sara Studio,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-02-17 18:47:20,2025-02-18 21:47:20,false
+100679,max.100679@example.com,Max,Max Coaching,subscriber,ORGANIC_SEARCH,,2025-08-28 11:17:47,2025-10-05 14:17:47,false
+100398,lea.100398@example.com,Lea,Lea Consulting,customer,REFERRALS,,2026-09-08 20:31:15,2026-09-15 00:00:00,false
+100576,lea.100576@example.com,Lea,Lea Coaching,opportunity,ORGANIC_SEARCH,,2025-11-28 18:07:40,2025-12-24 21:07:40,false
+100249,anna.100249@example.com,Anna,Anna Studio,customer,REFERRALS,,2026-05-15 01:25:43,2026-06-08 04:25:43,false
+100178,max.100178@example.com,Max,Max Coaching,subscriber,EMAIL_MARKETING,newsletter,2026-03-30 04:27:42,2026-04-16 07:27:42,false
+100242,  FELIX.100242@EXAMPLE.COM ,Felix,Felix Studio,customer,PAID_SEARCH,gads_brand,2025-02-08 16:08:35,2025-02-14 19:08:35,false
+100503,max.100503@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2025-05-30 13:57:32,2025-05-30 15:57:32,false
+100588,hannah.100588@example.com,Hannah,Hannah Training GmbH,lead,ORGANIC_SEARCH,,2026-01-27 10:39:14,2026-01-27 12:39:14,false
+100404,  ANNA.100404@EXAMPLE.COM ,Anna,Anna Academy,customer,ORGANIC_SEARCH,,2026-08-01 23:34:42,2026-08-23 02:34:42,false
+100565,leon.100565@example.com,Leon,Leon Coaching,subscriber,REFERRALS,,2025-03-26 22:45:46,2025-03-29 01:45:46,false
+100621,sara.100621@example.com,Sara,Sara Training GmbH,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2026-08-24 19:41:41,2026-09-15 00:00:00,false
+100459,tim.100459@example.com,Tim,Tim Studio,subscriber,PAID_SEARCH,gads_online_course_platform,2026-03-30 06:17:26,2026-04-06 09:17:26,false
+100642,leon.100642@example.com,Leon,Leon Coaching,customer,REFERRALS,,2025-12-11 21:50:42,2026-01-31 00:50:42,false
+100323,sara.100323@example.com,Sara,Sara Akademie,lead,ORGANIC_SEARCH,,2025-03-06 17:56:36,2025-03-09 20:56:36,false
+100195,hannah.100195@example.com,Hannah,Hannah Studio,lead,PAID_SEARCH,gads_brand,2026-02-18 04:49:53,2026-03-03 07:49:53,false
+100132,jonas.100132@example.com,Jonas,Jonas Studio,customer,EMAIL_MARKETING,webinar_followup,2025-07-13 16:57:45,2025-07-15 19:57:45,false
+100550,ben.100550@example.com,Ben,Ben Coaching,customer,REFERRALS,,2026-01-06 10:20:04,2026-01-26 13:20:04,false
+100498,jonas.100498@example.com,Jonas,Jonas Academy,customer,REFERRALS,,2025-12-09 13:09:55,2026-01-11 16:09:55,false
+100036,leon.100036@example.com,Leon,Leon Studio,customer,REFERRALS,,2025-03-13 19:39:13,2025-04-25 22:39:13,false
+100115,paul.100115@example.com,Paul,Paul Training GmbH,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-08-26 21:23:29,2025-10-03 00:23:29,false
+100599,david.100599@example.com,David,David Consulting,lead,ORGANIC_SEARCH,,2025-02-22 13:59:17,2025-03-09 16:59:17,false
+100676,sophie.100676@example.com,Sophie,Sophie Training GmbH,customer,REFERRALS,,2026-08-19 05:51:27,2026-08-23 08:51:27,false
+100552,max.100552@example.com,Max,Max Academy,customer,ORGANIC_SEARCH,,2025-12-24 18:19:32,2026-02-04 21:19:32,false
+100494,Nina.100494@example.com,Nina,Nina Academy,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2025-01-19 00:54:22,2025-02-27 03:54:22,false
+100042,tim.100042@example.com,Tim,Tim Academy,salesqualifiedlead,DIRECT_TRAFFIC,,2026-06-06 20:32:10,2026-06-17 23:32:10,false
+100007,tim.100007@example.com,Tim,Tim Akademie,lead,ORGANIC_SEARCH,,2026-07-28 20:09:20,2026-09-15 00:00:00,false
+100562,sara.100562@example.com,Sara,Sara Academy,lead,PAID_SEARCH,gads_online_course_platform,2025-11-26 10:29:25,2025-12-18 13:29:25,false
+100661,sara.100661@example.com,Sara,Sara Akademie,subscriber,PAID_SOCIAL,meta_lookalike,2026-05-17 17:59:40,2026-05-31 20:59:40,false
+100477,felix.100477@example.com,Felix,Felix Akademie,lead,PAID_SEARCH,gads_lms_competitor,2025-03-15 22:25:55,2025-04-12 01:25:55,false
+100052,  PAUL.100052@EXAMPLE.COM ,Paul,Paul Academy,lead,DIRECT_TRAFFIC,,2026-06-16 09:41:51,2026-07-08 12:41:51,false
+100214,laura.100214@example.com,Laura,Laura Akademie,customer,ORGANIC_SEARCH,,2025-11-01 06:36:10,2025-12-28 09:36:10,false
+100591,max.100591@example.com,Max,Max Consulting,lead,PAID_SEARCH,gads_lms_competitor,2025-11-25 16:05:41,2026-01-16 19:05:41,false
+100411,tim.100411@example.com,Tim,Tim Academy,lead,PAID_SEARCH,gads_brand,2025-01-29 02:17:52,2025-03-09 05:17:52,false
+100431,sara.100431@example.com,Sara,Sara Consulting,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-10-03 07:22:20,2025-10-29 10:22:20,false
+100499,nina.100499@example.com,Nina,Nina Training GmbH,customer,REFERRALS,,2025-08-05 15:38:34,2025-09-10 18:38:34,false
+100567,jonas.100567@example.com,Jonas,Jonas Coaching,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-04-29 08:16:57,2025-05-26 11:16:57,false
+100395,tim.100395@example.com,Tim,Tim Akademie,subscriber,EMAIL_MARKETING,newsletter,2025-06-08 23:50:01,2025-07-04 02:50:01,false
+100582,jonas.100582@example.com,Jonas,Jonas Studio,customer,PAID_SEARCH,gads_online_course_platform,2025-08-13 07:51:01,2025-08-15 10:51:01,false
+100618,noah.100618@example.com,Noah,Noah Coaching,subscriber,ORGANIC_SEARCH,,2026-05-20 05:21:07,2026-05-21 08:21:07,false
+100678,max.100678@example.com,Max,Max Consulting,lead,PAID_SEARCH,gads_brand,2025-10-09 11:15:16,2025-10-09 13:15:16,false
+100252,lea.100252@example.com,Lea,Lea Akademie,lead,ORGANIC_SEARCH,,2025-06-19 14:02:12,2025-07-10 17:02:12,false
+100102,  MAX.100102@EXAMPLE.COM ,Max,Max Coaching,lead,ORGANIC_SEARCH,,2025-07-12 05:55:43,2025-07-22 08:55:43,false
+100031,Sophie.100031@example.com,Sophie,Sophie Coaching,marketingqualifiedlead,PAID_SEARCH,gads_brand,2026-02-24 05:51:07,2026-03-16 08:51:07,false
+100342,hannah.100342@example.com,Hannah,Hannah Coaching,customer,DIRECT_TRAFFIC,,2026-03-24 12:39:03,2026-04-19 15:39:03,false
+100364,lukas.100364@example.com,Lukas,Lukas Coaching,subscriber,PAID_SEARCH,gads_lms_competitor,2025-10-19 20:19:04,2025-10-25 23:19:04,false
+100604,Sophie.100604@example.com,Sophie,Sophie Studio,opportunity,ORGANIC_SEARCH,,2026-04-21 15:22:44,2026-05-15 18:22:44,false
+100546,nina.100546@example.com,Nina,Nina Coaching,lead,PAID_SOCIAL,meta_lookalike,2025-03-17 16:59:35,2025-04-06 19:59:35,false
+100538,mia.100538@example.com,Mia,Mia Coaching,lead,ORGANIC_SEARCH,,2025-08-29 23:48:09,2025-09-21 02:48:09,false
+100452,felix.100452@example.com,Felix,Felix Studio,customer,ORGANIC_SEARCH,,2025-03-20 10:21:00,2025-05-15 13:21:00,false
+100457,ben.100457@example.com,Ben,Ben Coaching,subscriber,EMAIL_MARKETING,webinar_followup,2025-08-25 01:57:17,2025-09-22 04:57:17,false
+100244,laura.100244@example.com,Laura,Laura Academy,lead,PAID_SOCIAL,meta_coaches_q1,2025-09-12 15:54:32,2025-10-27 18:54:32,false
+100651,Laura.100651@example.com,Laura,Laura Training GmbH,lead,ORGANIC_SEARCH,,2025-08-14 03:48:05,2025-09-19 06:48:05,false
+100438,max.100438@example.com,Max,Max Studio,subscriber,PAID_SEARCH,gads_brand,2025-10-07 06:55:10,2025-11-15 09:55:10,false
+100318,Jonas.100318@example.com,Jonas,Jonas Coaching,salesqualifiedlead,REFERRALS,,2025-04-27 16:55:54,2025-06-05 19:55:54,false
+100399,felix.100399@example.com,Felix,Felix Studio,subscriber,ORGANIC_SEARCH,,2025-10-26 04:15:08,2025-12-03 07:15:08,false
+100303,mia.100303@example.com,Mia,Mia Akademie,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-05-08 22:07:28,2026-05-09 01:07:28,false
+100680,lea.100680@example.com,Lea,Lea Studio,marketingqualifiedlead,ORGANIC_SEARCH,,2025-11-13 18:25:06,2025-12-23 21:25:06,false
+100201,mia.100201@example.com,Mia,Mia Akademie,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-05-22 03:58:09,2025-06-08 06:58:09,false
+100301,jonas.100301@example.com,Jonas,Jonas Coaching,subscriber,PAID_SEARCH,gads_online_course_platform,2026-02-03 08:36:30,2026-03-03 11:36:30,false
+100474,anna.100474@example.com,Anna,Anna Academy,marketingqualifiedlead,REFERRALS,,2025-03-16 21:39:32,2025-04-28 00:39:32,false
+100329,Lukas.100329@example.com,Lukas,Lukas Studio,salesqualifiedlead,DIRECT_TRAFFIC,,2025-10-28 15:35:30,2025-11-24 18:35:30,false
+100400,anna.100400@example.com,Anna,Anna Coaching,subscriber,PAID_SOCIAL,meta_lookalike,2026-06-30 16:52:09,2026-07-24 19:52:09,false
+100153,Tim.100153@example.com,Tim,Tim Studio,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-01-06 13:19:47,2025-01-19 16:19:47,false
+100492,nina.100492@example.com,Nina,Nina Training GmbH,subscriber,PAID_SEARCH,gads_brand,2025-12-30 08:02:21,2026-02-03 11:02:21,false
+100453,laura.100453@example.com,Laura,Laura Consulting,subscriber,PAID_SOCIAL,meta_lookalike,2026-03-20 04:20:25,2026-04-04 07:20:25,false
+100200,leon.100200@example.com,Leon,Leon Coaching,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-11-23 01:10:53,2025-12-15 04:10:53,false
+100691,felix.100691@example.com,Felix,Felix Akademie,lead,ORGANIC_SEARCH,,2025-06-04 12:09:42,2025-08-01 15:09:42,false
+100249,anna.100249@example.com,Anna,Anna Studio,lead,REFERRALS,,2026-05-15 01:25:43,2026-05-15 03:25:43,false
+100525,sophie.100525@example.com,Sophie,Sophie Training GmbH,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-12-23 12:06:42,2026-01-23 15:06:42,false
+100207,ben.100207@example.com,Ben,Ben Akademie,lead,PAID_SEARCH,gads_lms_competitor,2025-02-14 10:24:00,2025-04-08 13:24:00,false
+100352,Laura.100352@example.com,Laura,Laura Studio,customer,ORGANIC_SEARCH,,2026-05-07 07:43:13,2026-06-07 10:43:13,false
+100616,paul.100616@example.com,Paul,Paul Studio,subscriber,EMAIL_MARKETING,newsletter,2025-10-15 17:21:00,2025-11-17 20:21:00,false
+100151,felix.100151@example.com,Felix,Felix Akademie,lead,ORGANIC_SEARCH,,2025-06-20 02:28:21,2025-08-07 05:28:21,false
+100061,tim.100061@example.com,Tim,Tim Consulting,lead,EMAIL_MARKETING,newsletter,2025-11-24 00:18:32,2025-12-13 03:18:32,false
+100475,leon.100475@example.com,Leon,Leon Studio,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-11-27 14:51:00,2025-11-28 17:51:00,false
+100071,  LAURA.100071@EXAMPLE.COM ,Laura,Laura Studio,customer,EMAIL_MARKETING,newsletter,2025-12-10 09:26:40,2026-01-14 12:26:40,false
+100003,paul.100003@example.com,Paul,Paul Studio,customer,REFERRALS,,2025-01-06 01:08:44,2025-02-23 04:08:44,false
+100104,laura.100104@example.com,Laura,Laura Academy,customer,REFERRALS,,2025-08-22 21:32:42,2025-10-05 00:32:42,false
+100510,leon.100510@example.com,Leon,Leon Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2026-02-10 22:23:31,2026-03-29 01:23:31,false
+100584,anna.100584@example.com,Anna,Anna Training GmbH,lead,PAID_SEARCH,gads_brand,2026-09-08 02:32:09,2026-09-15 00:00:00,false
+100165,nina.100165@example.com,Nina,Nina Academy,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2025-11-30 21:26:35,2026-01-05 00:26:35,false
+100692,sophie.100692@example.com,Sophie,Sophie Studio,lead,PAID_SEARCH,gads_brand,2025-01-31 20:23:47,2025-03-19 23:23:47,false
+100140,  MIA.100140@EXAMPLE.COM ,Mia,Mia Coaching,salesqualifiedlead,ORGANIC_SEARCH,,2025-05-06 06:10:55,2025-05-11 09:10:55,false
+100170,anna.100170@example.com,Anna,Anna Academy,customer,DIRECT_TRAFFIC,,2025-06-18 06:18:54,2025-08-10 09:18:54,false
+100075,hannah.100075@example.com,Hannah,Hannah Coaching,lead,REFERRALS,,2025-09-28 23:32:04,2025-10-21 02:32:04,false
+100443,julia.100443@example.com,Julia,Julia Akademie,lead,REFERRALS,,2025-12-13 12:04:36,2025-12-29 15:04:36,true
+100347,  NINA.100347@EXAMPLE.COM ,Nina,Nina Consulting,marketingqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2026-01-15 23:18:06,2026-02-21 02:18:06,false
+100648,sara.100648@example.com,Sara,Sara Akademie,lead,EMAIL_MARKETING,webinar_followup,2026-04-09 18:16:35,2026-04-09 20:16:35,false
+100653,emma.100653@example.com,Emma,Emma Consulting,subscriber,DIRECT_TRAFFIC,,2026-04-06 11:04:20,2026-04-14 14:04:20,false
+100473,paul.100473@example.com,Paul,Paul Training GmbH,customer,PAID_SEARCH,gads_brand,2025-01-23 03:00:16,2025-01-25 06:00:16,false
+100074,max.100074@example.com,Max,Max Academy,lead,ORGANIC_SEARCH,,2025-07-24 13:57:49,2025-07-27 16:57:49,true
+100524,nina.100524@example.com,Nina,Nina Training GmbH,lead,ORGANIC_SEARCH,,2025-01-04 11:26:43,2025-02-11 14:26:43,false
+100491,noah.100491@example.com,Noah,Noah Academy,subscriber,EMAIL_MARKETING,webinar_followup,2025-07-07 06:20:04,2025-08-28 09:20:04,false
+100619,hannah.100619@example.com,Hannah,Hannah Training GmbH,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-03-13 10:22:46,2026-04-16 13:22:46,false
+100056,mia.100056@example.com,Mia,Mia Academy,customer,PAID_SEARCH,gads_brand,2025-06-28 15:20:19,2025-07-08 18:20:19,false
+100224,tim.100224@example.com,Tim,Tim Akademie,customer,ORGANIC_SEARCH,,2026-01-03 04:22:22,2026-02-28 07:22:22,false
+100040,julia.100040@example.com,Julia,Julia Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2025-04-27 10:53:04,2025-06-12 13:53:04,true
+100034,nina.100034@example.com,Nina,Nina Akademie,subscriber,PAID_SEARCH,gads_online_course_platform,2025-08-21 22:19:36,2025-10-15 01:19:36,false
+100226,ben.100226@example.com,Ben,Ben Consulting,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-02-07 22:25:25,2025-02-08 01:25:25,false
+100255,laura.100255@example.com,Laura,Laura Academy,lead,PAID_SEARCH,gads_lms_competitor,2025-09-25 16:03:01,2025-10-29 19:03:01,false
+100693,nina.100693@example.com,Nina,Nina Coaching,subscriber,ORGANIC_SEARCH,,2026-05-04 17:05:56,2026-06-08 20:05:56,false
+100121,sara.100121@example.com,Sara,Sara Academy,customer,REFERRALS,,2025-02-13 11:26:45,2025-04-01 14:26:45,false
+100144,lea.100144@example.com,Lea,Lea Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-05-07 00:55:56,2026-05-18 03:55:56,false
+100444,jonas.100444@example.com,Jonas,Jonas Consulting,marketingqualifiedlead,DIRECT_TRAFFIC,,2026-01-01 21:54:56,2026-01-02 00:54:56,false
+100408,lea.100408@example.com,Lea,Lea Akademie,lead,ORGANIC_SEARCH,,2025-02-02 00:06:54,2025-03-24 03:06:54,false
+100629,jonas.100629@example.com,Jonas,Jonas Coaching,lead,REFERRALS,,2026-08-07 12:56:57,2026-08-07 14:56:57,false
+100046,mia.100046@example.com,Mia,Mia Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2026-04-27 04:36:40,2026-06-10 07:36:40,false
+100152,max.100152@example.com,Max,Max Coaching,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-08-13 23:16:11,2025-08-26 02:16:11,false
+100369,lea.100369@example.com,Lea,Lea Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2026-05-01 11:21:28,2026-06-01 14:21:28,false
+100022,julia.100022@example.com,Julia,Julia Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-04-15 05:40:05,2025-05-26 08:40:05,false
+100667,paul.100667@example.com,Paul,Paul Academy,subscriber,PAID_SEARCH,gads_lms_competitor,2025-09-15 01:44:39,2025-09-16 04:44:39,false
+100442,hannah.100442@example.com,Hannah,Hannah Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2026-07-20 18:32:32,2026-09-15 00:00:00,false
+100157,lea.100157@example.com,Lea,Lea Studio,customer,ORGANIC_SEARCH,,2025-03-20 16:25:11,2025-04-21 19:25:11,false
+100497,anna.100497@example.com,Anna,Anna Training GmbH,lead,ORGANIC_SEARCH,,2025-09-20 05:27:41,2025-11-14 08:27:41,false
+100410,tim.100410@example.com,Tim,Tim Consulting,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2026-03-24 09:22:27,2026-03-30 12:22:27,false
+100678,max.100678@example.com,Max,Max Consulting,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-10-09 11:15:16,2025-11-08 14:15:16,false
+100362,jonas.100362@example.com,Jonas,Jonas Studio,opportunity,REFERRALS,,2025-03-22 07:31:07,2025-03-28 10:31:07,false
+100307,noah.100307@example.com,Noah,Noah Training GmbH,lead,PAID_SEARCH,gads_online_course_platform,2026-05-19 01:52:18,2026-05-27 04:52:18,false
+100490,lukas.100490@example.com,Lukas,Lukas Akademie,lead,ORGANIC_SEARCH,,2025-06-03 00:22:33,2025-07-12 03:22:33,false
+100675,jonas.100675@example.com,Jonas,Jonas Consulting,lead,EMAIL_MARKETING,newsletter,2025-05-22 21:12:49,2025-07-16 00:12:49,false
+100126,hannah.100126@example.com,Hannah,Hannah Academy,lead,PAID_SEARCH,gads_brand,2025-06-30 15:18:49,2025-06-30 17:18:49,false
+100109,david.100109@example.com,David,David Studio,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-07-10 06:05:08,2025-07-31 09:05:08,false
+100462,leon.100462@example.com,Leon,Leon Coaching,lead,PAID_SEARCH,gads_online_course_platform,2026-07-21 14:30:31,2026-07-21 17:30:31,false
+100037,laura.100037@example.com,Laura,Laura Studio,lead,ORGANIC_SEARCH,,2026-04-06 05:21:51,2026-05-12 08:21:51,false
+100559,lea.100559@example.com,Lea,Lea Coaching,lead,PAID_SEARCH,gads_online_course_platform,2025-10-17 16:24:31,2025-11-23 19:24:31,false
+100030,Felix.100030@example.com,Felix,Felix Akademie,lead,PAID_SOCIAL,meta_lookalike,2025-01-13 03:39:31,2025-01-13 05:39:31,false
+100060,ben.100060@example.com,Ben,Ben Coaching,lead,ORGANIC_SEARCH,,2025-04-15 22:10:48,2025-04-16 00:10:48,false
+100558,sara.100558@example.com,Sara,Sara Academy,salesqualifiedlead,EMAIL_MARKETING,newsletter,2025-04-27 01:37:45,2025-05-09 04:37:45,true
+100441,anna.100441@example.com,Anna,Anna Coaching,lead,ORGANIC_SEARCH,,2025-10-31 17:02:58,2025-11-19 20:02:58,true
+100018,Lea.100018@example.com,Lea,Lea Consulting,customer,REFERRALS,,2026-08-24 10:57:48,2026-09-15 00:00:00,false
+100103,laura.100103@example.com,Laura,Laura Training GmbH,lead,ORGANIC_SEARCH,,2026-07-26 19:30:37,2026-08-26 22:30:37,false
+100279,lea.100279@example.com,Lea,Lea Consulting,subscriber,ORGANIC_SEARCH,,2026-05-15 19:41:09,2026-06-14 22:41:09,false
+100545,max.100545@example.com,Max,Max Consulting,subscriber,ORGANIC_SEARCH,,2026-08-08 15:59:05,2026-08-22 18:59:05,false
+100288,julia.100288@example.com,Julia,Julia Academy,subscriber,DIRECT_TRAFFIC,,2026-02-04 04:42:20,2026-03-09 07:42:20,false
+100077,  PAUL.100077@EXAMPLE.COM ,Paul,Paul Academy,customer,PAID_SEARCH,gads_online_course_platform,2025-05-04 04:37:12,2025-05-18 07:37:12,false
+100375,lukas.100375@example.com,Lukas,Lukas Coaching,customer,ORGANIC_SEARCH,,2026-01-07 11:12:18,2026-03-02 14:12:18,false
+100120,  SOPHIE.100120@EXAMPLE.COM ,Sophie,Sophie Training GmbH,customer,ORGANIC_SEARCH,,2025-07-03 10:46:51,2025-07-13 13:46:51,false
+100155,sara.100155@example.com,Sara,Sara Coaching,lead,ORGANIC_SEARCH,,2025-08-10 15:54:03,2025-08-10 17:54:03,false
+100612,lea.100612@example.com,Lea,Lea Consulting,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-07-09 15:41:58,2026-07-19 18:41:58,false
+100611,mia.100611@example.com,Mia,Mia Akademie,lead,PAID_SOCIAL,meta_coaches_q1,2026-06-24 03:51:28,2026-08-19 06:51:28,false
+100666,paul.100666@example.com,Paul,Paul Training GmbH,customer,DIRECT_TRAFFIC,,2025-10-31 13:10:53,2025-11-14 16:10:53,false
+100138,mia.100138@example.com,Mia,Mia Akademie,subscriber,ORGANIC_SEARCH,,2025-04-07 07:43:10,2025-05-02 10:43:10,false
+100001,emma.100001@example.com,Emma,Emma Akademie,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-01-20 10:14:03,2025-02-23 13:14:03,false
+100463,paul.100463@example.com,Paul,Paul Academy,customer,ORGANIC_SEARCH,,2026-07-01 21:47:43,2026-07-11 00:47:43,false
+100461,david.100461@example.com,David,David Academy,lead,REFERRALS,,2025-09-15 09:19:14,2025-10-09 12:19:14,false
+100628,noah.100628@example.com,Noah,Noah Academy,subscriber,REFERRALS,,2025-12-30 18:11:03,2026-01-05 21:11:03,false
+100659,emma.100659@example.com,Emma,Emma Academy,marketingqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2026-08-20 18:45:58,2026-09-15 00:00:00,false
+100337,mia.100337@example.com,Mia,Mia Akademie,lead,PAID_SEARCH,gads_online_course_platform,2026-07-09 23:13:14,2026-09-04 02:13:14,false
+100695,anna.100695@example.com,Anna,Anna Studio,customer,REFERRALS,,2026-02-06 14:50:13,2026-02-20 17:50:13,false
+100489,tim.100489@example.com,Tim,Tim Studio,salesqualifiedlead,REFERRALS,,2026-05-01 16:54:27,2026-06-14 19:54:27,false
+100043,mia.100043@example.com,Mia,Mia Akademie,salesqualifiedlead,DIRECT_TRAFFIC,,2025-09-18 16:38:33,2025-10-11 19:38:33,false
+100129,paul.100129@example.com,Paul,Paul Studio,subscriber,ORGANIC_SEARCH,,2025-10-03 20:36:19,2025-10-28 23:36:19,false
+100601,nina.100601@example.com,Nina,Nina Akademie,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-07-07 18:59:49,2025-07-22 21:59:49,false
+100315,tim.100315@example.com,Tim,Tim Training GmbH,marketingqualifiedlead,ORGANIC_SEARCH,,2025-07-27 14:17:50,2025-08-19 17:17:50,false
+100327,sara.100327@example.com,Sara,Sara Studio,opportunity,ORGANIC_SEARCH,,2026-01-25 15:49:36,2026-02-21 18:49:36,false
+100130,laura.100130@example.com,Laura,Laura Training GmbH,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-03-05 08:32:42,2025-03-05 10:32:42,false
+100434,nina.100434@example.com,Nina,Nina Coaching,lead,PAID_SOCIAL,meta_lookalike,2025-04-03 04:40:15,2025-05-04 07:40:15,false
+100694,laura.100694@example.com,Laura,Laura Coaching,lead,DIRECT_TRAFFIC,,2026-07-23 18:55:22,2026-08-21 21:55:22,false
+100397,sophie.100397@example.com,Sophie,Sophie Akademie,lead,DIRECT_TRAFFIC,,2025-03-20 01:21:31,2025-03-23 04:21:31,false
+100631,sophie.100631@example.com,Sophie,Sophie Studio,customer,ORGANIC_SEARCH,,2026-03-01 22:15:36,2026-04-20 01:15:36,false
+100250,julia.100250@example.com,Julia,Julia Studio,marketingqualifiedlead,EMAIL_MARKETING,webinar_followup,2025-11-10 19:19:53,2025-12-17 22:19:53,false
+100672,sophie.100672@example.com,Sophie,Sophie Training GmbH,customer,REFERRALS,,2026-06-30 22:00:06,2026-08-21 01:00:06,false
+100270,anna.100270@example.com,Anna,Anna Akademie,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-07-27 22:49:52,2025-09-03 01:49:52,false
+100258,noah.100258@example.com,Noah,Noah Training GmbH,opportunity,PAID_SEARCH,gads_lms_competitor,2025-03-28 16:13:56,2025-03-28 19:13:56,false
+100478,  DAVID.100478@EXAMPLE.COM ,David,David Studio,opportunity,PAID_SOCIAL,meta_lookalike,2026-03-19 12:16:01,2026-05-01 15:16:01,false
+100534,hannah.100534@example.com,Hannah,Hannah Training GmbH,subscriber,ORGANIC_SEARCH,,2025-11-16 14:38:52,2025-12-13 17:38:52,false
+100670,paul.100670@example.com,Paul,Paul Coaching,subscriber,DIRECT_TRAFFIC,,2025-07-26 13:45:50,2025-09-15 16:45:50,false
+100479,julia.100479@example.com,Julia,Julia Training GmbH,customer,EMAIL_MARKETING,webinar_followup,2025-06-10 00:15:54,2025-07-24 03:15:54,false
+100507,sara.100507@example.com,Sara,Sara Coaching,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-09-20 09:37:48,2025-10-13 12:37:48,false
+100340,emma.100340@example.com,Emma,Emma Akademie,customer,ORGANIC_SEARCH,,2025-09-14 22:59:58,2025-09-18 01:59:58,false
+100091,paul.100091@example.com,Paul,Paul Academy,subscriber,ORGANIC_SEARCH,,2026-01-13 20:28:53,2026-01-25 23:28:53,false
+100426,paul.100426@example.com,Paul,Paul Academy,subscriber,PAID_SEARCH,gads_brand,2026-04-15 04:01:50,2026-05-30 07:01:50,false
+100465,lukas.100465@example.com,Lukas,Lukas Coaching,lead,REFERRALS,,2025-07-29 02:04:53,2025-08-31 05:04:53,false
+100101,anna.100101@example.com,Anna,Anna Consulting,customer,PAID_SEARCH,gads_online_course_platform,2025-02-14 11:28:03,2025-02-15 14:28:03,false
+100633,david.100633@example.com,David,David Studio,lead,DIRECT_TRAFFIC,,2025-10-10 16:34:54,2025-10-10 19:34:54,false
+100006,jonas.100006@example.com,Jonas,Jonas Consulting,opportunity,PAID_SEARCH,gads_lms_competitor,2026-07-21 16:57:46,2026-09-02 19:57:46,false
+100671,lea.100671@example.com,Lea,Lea Academy,lead,PAID_SOCIAL,meta_lookalike,2025-02-21 10:29:29,2025-04-20 13:29:29,false
+100066,jonas.100066@example.com,Jonas,Jonas Coaching,lead,PAID_SOCIAL,meta_lookalike,2026-08-10 19:14:28,2026-09-15 00:00:00,false
+100247,emma.100247@example.com,Emma,Emma Training GmbH,opportunity,DIRECT_TRAFFIC,,2025-02-20 12:15:33,2025-03-03 15:15:33,false
+100603,  NINA.100603@EXAMPLE.COM ,Nina,Nina Coaching,salesqualifiedlead,ORGANIC_SEARCH,,2025-11-29 20:20:06,2026-01-12 23:20:06,false
+100593,laura.100593@example.com,Laura,Laura Academy,opportunity,ORGANIC_SEARCH,,2025-12-21 11:31:36,2025-12-25 14:31:36,false
+100530,laura.100530@example.com,Laura,Laura Akademie,subscriber,ORGANIC_SEARCH,,2025-09-02 19:38:30,2025-10-26 22:38:30,false
+100203,nina.100203@example.com,Nina,Nina Coaching,customer,EMAIL_MARKETING,newsletter,2026-01-28 10:17:20,2026-03-13 13:17:20,false
+100393,emma.100393@example.com,Emma,Emma Training GmbH,subscriber,ORGANIC_SEARCH,,2026-08-10 20:47:46,2026-09-04 23:47:46,false
+100428,Felix.100428@example.com,Felix,Felix Consulting,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2025-11-09 13:47:03,2025-11-25 16:47:03,false
+100051,lea.100051@example.com,Lea,Lea Training GmbH,lead,EMAIL_MARKETING,newsletter,2025-08-15 00:37:03,2025-09-26 03:37:03,false
+100420,  JONAS.100420@EXAMPLE.COM ,Jonas,Jonas Studio,lead,PAID_SOCIAL,meta_lookalike,2026-05-18 07:11:19,2026-05-20 10:11:19,false
+100590,max.100590@example.com,Max,Max Training GmbH,subscriber,DIRECT_TRAFFIC,,2025-10-04 13:29:34,2025-11-27 16:29:34,false
+100472,nina.100472@example.com,Nina,Nina Coaching,customer,DIRECT_TRAFFIC,,2026-01-29 16:43:56,2026-03-27 19:43:56,false
+100123,sara.100123@example.com,Sara,Sara Training GmbH,subscriber,ORGANIC_SEARCH,,2026-04-26 15:22:43,2026-05-31 18:22:43,false
+100387,sara.100387@example.com,Sara,Sara Coaching,subscriber,ORGANIC_SEARCH,,2025-01-03 19:35:05,2025-01-28 22:35:05,true
+100556,david.100556@example.com,David,David Coaching,customer,PAID_SEARCH,gads_online_course_platform,2026-01-05 04:42:37,2026-01-14 07:42:37,false
+100267,emma.100267@example.com,Emma,Emma Akademie,lead,PAID_SOCIAL,meta_lookalike,2025-01-08 14:47:31,2025-01-08 17:47:31,false
+100294,paul.100294@example.com,Paul,Paul Akademie,lead,PAID_SEARCH,gads_brand,2026-09-08 16:25:41,2026-09-15 00:00:00,false
+100646,hannah.100646@example.com,Hannah,Hannah Training GmbH,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2026-02-04 09:35:38,2026-04-03 12:35:38,true
+100015,max.100015@example.com,Max,Max Academy,lead,PAID_SOCIAL,meta_coaches_q1,2026-05-30 08:48:08,2026-07-03 11:48:08,false
+100316,anna.100316@example.com,Anna,Anna Studio,customer,REFERRALS,,2026-01-03 10:52:44,2026-01-10 13:52:44,false
+100541,nina.100541@example.com,Nina,Nina Academy,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-04-22 01:38:25,2025-06-19 04:38:25,false
+100446,nina.100446@example.com,Nina,Nina Training GmbH,marketingqualifiedlead,ORGANIC_SEARCH,,2025-11-04 22:21:36,2025-11-28 01:21:36,false
+100486,sophie.100486@example.com,Sophie,Sophie Studio,customer,EMAIL_MARKETING,newsletter,2025-06-11 06:22:40,2025-08-06 09:22:40,false
+100415,hannah.100415@example.com,Hannah,Hannah Academy,salesqualifiedlead,ORGANIC_SEARCH,,2026-03-22 12:32:25,2026-04-28 15:32:25,false
+100199,sophie.100199@example.com,Sophie,Sophie Consulting,customer,PAID_SEARCH,gads_lms_competitor,2025-07-10 13:34:53,2025-07-10 16:34:53,false
+100583,anna.100583@example.com,Anna,Anna Coaching,subscriber,ORGANIC_SEARCH,,2025-02-17 00:17:07,2025-04-08 03:17:07,false
+100253,max.100253@example.com,Max,Max Training GmbH,lead,EMAIL_MARKETING,newsletter,2025-11-25 02:12:20,2025-12-15 05:12:20,false
+100450,david.100450@example.com,David,David Academy,subscriber,PAID_SOCIAL,meta_lookalike,2026-03-08 01:21:34,2026-03-11 04:21:34,false
+100044,Hannah.100044@example.com,Hannah,Hannah Academy,lead,REFERRALS,,2026-03-30 06:37:09,2026-04-18 09:37:09,false
+100289,nina.100289@example.com,Nina,Nina Studio,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-04-24 21:20:13,2025-05-02 00:20:13,false
+100602,felix.100602@example.com,Felix,Felix Coaching,lead,PAID_SOCIAL,meta_coaches_q1,2026-06-09 22:26:26,2026-07-04 01:26:26,false
+100146,noah.100146@example.com,Noah,Noah Studio,subscriber,ORGANIC_SEARCH,,2026-01-13 21:39:55,2026-02-25 00:39:55,false
+100533,max.100533@example.com,Max,Max Studio,subscriber,REFERRALS,,2025-02-08 08:07:34,2025-02-22 11:07:34,false
+100699,  MIA.100699@EXAMPLE.COM ,Mia,Mia Academy,customer,PAID_SEARCH,gads_brand,2025-08-08 06:35:41,2025-08-22 09:35:41,false
+100624,tim.100624@example.com,Tim,Tim Academy,customer,PAID_SEARCH,gads_online_course_platform,2025-10-20 20:02:41,2025-12-15 23:02:41,false
+100514,sara.100514@example.com,Sara,Sara Training GmbH,lead,PAID_SOCIAL,meta_lookalike,2025-05-09 11:33:09,2025-06-06 14:33:09,false
+100281,  LEA.100281@EXAMPLE.COM ,Lea,Lea Coaching,subscriber,REFERRALS,,2026-04-19 08:02:39,2026-06-16 11:02:39,false
+100483,noah.100483@example.com,Noah,Noah Studio,customer,REFERRALS,,2026-06-07 21:13:22,2026-06-20 00:13:22,false
+100153,Tim.100153@example.com,Tim,Tim Studio,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-01-06 13:19:47,2025-01-06 15:19:47,false
+100566,noah.100566@example.com,Noah,Noah Training GmbH,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2026-05-12 04:23:53,2026-06-01 07:23:53,false
+100133,  JONAS.100133@EXAMPLE.COM ,Jonas,Jonas Akademie,lead,ORGANIC_SEARCH,,2025-04-10 19:53:42,2025-04-10 21:53:42,false
+100219,Paul.100219@example.com,Paul,Paul Akademie,opportunity,PAID_SEARCH,gads_online_course_platform,2025-02-11 00:08:54,2025-03-27 03:08:54,false
+100119,lea.100119@example.com,Lea,Lea Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2026-09-08 20:02:44,2026-09-15 00:00:00,false
+100087,nina.100087@example.com,Nina,Nina Training GmbH,subscriber,ORGANIC_SEARCH,,2025-03-13 16:42:17,2025-04-09 19:42:17,false
+100124,lea.100124@example.com,Lea,Lea Coaching,lead,REFERRALS,,2026-01-06 04:57:39,2026-01-22 07:57:39,false
+100235,jonas.100235@example.com,Jonas,Jonas Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2025-05-03 16:03:32,2025-05-04 19:03:32,false
+100276,  EMMA.100276@EXAMPLE.COM ,Emma,Emma Academy,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-01-31 04:04:40,2026-02-01 07:04:40,false
+100480,laura.100480@example.com,Laura,Laura Coaching,customer,PAID_SEARCH,gads_lms_competitor,2025-09-17 05:24:57,2025-09-23 08:24:57,false
+100075,hannah.100075@example.com,Hannah,Hannah Coaching,lead,REFERRALS,,2025-09-28 23:32:04,2025-09-29 01:32:04,false
+100413,lukas.100413@example.com,Lukas,Lukas Training GmbH,salesqualifiedlead,DIRECT_TRAFFIC,,2025-04-17 02:44:35,2025-05-17 05:44:35,false
+100544,emma.100544@example.com,Emma,Emma Academy,subscriber,PAID_SEARCH,gads_lms_competitor,2025-06-16 23:08:04,2025-06-20 02:08:04,false
+100482,noah.100482@example.com,Noah,Noah Consulting,lead,PAID_SEARCH,gads_online_course_platform,2025-05-17 15:46:58,2025-05-23 18:46:58,false
+100555,mia.100555@example.com,Mia,Mia Akademie,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2026-08-08 01:58:31,2026-09-15 00:00:00,false
+100401,julia.100401@example.com,Julia,Julia Akademie,subscriber,EMAIL_MARKETING,webinar_followup,2025-12-01 09:33:38,2026-01-23 12:33:38,false
+100554,Paul.100554@example.com,Paul,Paul Training GmbH,subscriber,PAID_SEARCH,gads_online_course_platform,2026-02-11 21:08:22,2026-03-01 00:08:22,false
+100273,leon.100273@example.com,Leon,Leon Coaching,marketingqualifiedlead,ORGANIC_SEARCH,,2026-05-17 16:31:08,2026-05-19 19:31:08,false
+100644,laura.100644@example.com,Laura,Laura Consulting,opportunity,EMAIL_MARKETING,webinar_followup,2026-01-13 17:06:54,2026-02-08 20:06:54,false
+100346,lea.100346@example.com,Lea,Lea Akademie,subscriber,PAID_SEARCH,gads_brand,2026-09-09 22:57:07,2026-09-15 00:00:00,false
+100062,hannah.100062@example.com,Hannah,Hannah Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2026-01-03 12:21:05,2026-01-21 15:21:05,false
+100163,lukas.100163@example.com,Lukas,Lukas Academy,customer,REFERRALS,,2025-10-19 12:34:29,2025-11-01 15:34:29,false
+100358,julia.100358@example.com,Julia,Julia Studio,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-01-27 15:22:44,2025-03-16 18:22:44,false
+100405,  LAURA.100405@EXAMPLE.COM ,Laura,Laura Akademie,opportunity,DIRECT_TRAFFIC,,2025-08-18 11:17:35,2025-08-21 14:17:35,false
+100697,david.100697@example.com,David,David Studio,customer,EMAIL_MARKETING,webinar_followup,2026-02-05 12:53:48,2026-02-26 15:53:48,false
+100440,laura.100440@example.com,Laura,Laura Training GmbH,customer,REFERRALS,,2025-01-13 01:18:05,2025-02-02 04:18:05,false
+100537,anna.100537@example.com,Anna,Anna Consulting,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-03-14 19:01:29,2025-04-28 22:01:29,false
+100197,max.100197@example.com,Max,Max Akademie,salesqualifiedlead,EMAIL_MARKETING,newsletter,2025-09-29 19:25:11,2025-10-08 22:25:11,false
+100128,  MAX.100128@EXAMPLE.COM ,Max,Max Studio,opportunity,REFERRALS,,2025-01-23 21:41:16,2025-02-17 00:41:16,false
+100354,mia.100354@example.com,Mia,Mia Akademie,marketingqualifiedlead,EMAIL_MARKETING,webinar_followup,2026-01-04 07:47:27,2026-01-10 10:47:27,false
+100549,sophie.100549@example.com,Sophie,Sophie Academy,lead,DIRECT_TRAFFIC,,2025-05-10 13:52:25,2025-05-29 16:52:25,false
+100222,laura.100222@example.com,Laura,Laura Studio,lead,REFERRALS,,2025-03-13 13:09:03,2025-05-04 16:09:03,false
+100578,laura.100578@example.com,Laura,Laura Coaching,lead,ORGANIC_SEARCH,,2025-08-05 01:01:36,2025-08-16 04:01:36,false
+100495,  JULIA.100495@EXAMPLE.COM ,Julia,Julia Coaching,subscriber,ORGANIC_SEARCH,,2026-04-04 09:31:52,2026-05-15 12:31:52,false
+100597,hannah.100597@example.com,Hannah,Hannah Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2026-01-21 12:29:25,2026-03-16 15:29:25,false
+100523,felix.100523@example.com,Felix,Felix Academy,lead,DIRECT_TRAFFIC,,2025-04-26 08:26:21,2025-05-24 11:26:21,false
+100598,David.100598@example.com,David,David Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-02-03 15:09:11,2026-03-22 18:09:11,false
+100389,jonas.100389@example.com,Jonas,Jonas Akademie,salesqualifiedlead,REFERRALS,,2025-04-15 08:06:25,2025-04-28 11:06:25,false
+100268,lea.100268@example.com,Lea,Lea Consulting,salesqualifiedlead,PAID_SEARCH,gads_brand,2025-08-24 02:25:32,2025-10-23 05:25:32,false
+100048,sara.100048@example.com,Sara,Sara Training GmbH,subscriber,EMAIL_MARKETING,webinar_followup,2026-01-08 18:59:25,2026-02-18 21:59:25,false
+100359,nina.100359@example.com,Nina,Nina Consulting,customer,ORGANIC_SEARCH,,2025-06-02 01:54:48,2025-07-05 04:54:48,false
+100002,felix.100002@example.com,Felix,Felix Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-06-19 19:42:26,2025-07-15 22:42:26,false
+100384,ben.100384@example.com,Ben,Ben Training GmbH,customer,ORGANIC_SEARCH,,2026-09-01 12:01:47,2026-09-15 00:00:00,false
+100466,noah.100466@example.com,Noah,Noah Studio,customer,DIRECT_TRAFFIC,,2025-10-05 18:21:16,2025-10-24 21:21:16,false
+100493,  DAVID.100493@EXAMPLE.COM ,David,David Consulting,lead,PAID_SOCIAL,meta_lookalike,2025-10-25 15:11:56,2025-10-25 17:11:56,false
+100302,Nina.100302@example.com,Nina,Nina Coaching,customer,PAID_SEARCH,gads_brand,2025-06-16 08:31:40,2025-07-10 11:31:40,false
+100418,noah.100418@example.com,Noah,Noah Coaching,lead,PAID_SOCIAL,meta_lookalike,2025-06-09 08:25:03,2025-06-09 10:25:03,false
+100299,david.100299@example.com,David,David Consulting,salesqualifiedlead,ORGANIC_SEARCH,,2025-07-02 19:54:24,2025-07-19 22:54:24,false
+100650,noah.100650@example.com,Noah,Noah Consulting,lead,REFERRALS,,2025-08-12 05:03:00,2025-09-11 08:03:00,false
+100390,lukas.100390@example.com,Lukas,Lukas Consulting,subscriber,EMAIL_MARKETING,webinar_followup,2026-01-27 16:52:41,2026-03-05 19:52:41,false
+100635,julia.100635@example.com,Julia,Julia Training GmbH,subscriber,PAID_SEARCH,gads_lms_competitor,2025-10-06 10:29:44,2025-10-22 13:29:44,false
+100058,sara.100058@example.com,Sara,Sara Consulting,lead,ORGANIC_SEARCH,,2025-03-11 13:24:28,2025-03-11 15:24:28,false
+100638,hannah.100638@example.com,Hannah,Hannah Academy,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2026-07-19 11:58:04,2026-08-15 14:58:04,false
+100092,david.100092@example.com,David,David Training GmbH,subscriber,EMAIL_MARKETING,newsletter,2025-07-21 10:40:12,2025-08-08 13:40:12,false
+100640,hannah.100640@example.com,Hannah,Hannah Consulting,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-05-04 06:17:20,2026-06-05 09:17:20,false
+100311,paul.100311@example.com,Paul,Paul Coaching,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2026-08-18 22:30:19,2026-09-13 01:30:19,false
+100116,emma.100116@example.com,Emma,Emma Studio,lead,PAID_SEARCH,gads_online_course_platform,2025-07-09 04:49:22,2025-07-11 07:49:22,false
+100175,mia.100175@example.com,Mia,Mia Consulting,salesqualifiedlead,PAID_SEARCH,gads_brand,2025-12-24 11:01:30,2026-01-29 14:01:30,false
+100004,lea.100004@example.com,Lea,Lea Coaching,subscriber,PAID_SOCIAL,meta_lookalike,2025-04-01 14:59:49,2025-04-16 17:59:49,false
+100464,Laura.100464@example.com,Laura,Laura Studio,lead,DIRECT_TRAFFIC,,2025-02-11 18:52:46,2025-04-06 21:52:46,false
+100336,  LUKAS.100336@EXAMPLE.COM ,Lukas,Lukas Akademie,lead,DIRECT_TRAFFIC,,2026-04-24 21:31:20,2026-04-28 00:31:20,false
+100385,felix.100385@example.com,Felix,Felix Coaching,customer,PAID_SEARCH,gads_online_course_platform,2025-12-26 12:15:45,2026-02-02 15:15:45,false
+100297,david.100297@example.com,David,David Coaching,customer,ORGANIC_SEARCH,,2026-01-15 04:30:56,2026-01-20 07:30:56,false
+100083,tim.100083@example.com,Tim,Tim Training GmbH,opportunity,ORGANIC_SEARCH,,2026-01-24 21:43:15,2026-02-17 00:43:15,false
+100164,julia.100164@example.com,Julia,Julia Consulting,salesqualifiedlead,ORGANIC_SEARCH,,2025-01-17 12:33:51,2025-01-23 15:33:51,false
+100454,hannah.100454@example.com,Hannah,Hannah Academy,customer,DIRECT_TRAFFIC,,2026-07-22 18:07:47,2026-08-21 21:07:47,false
+100149,lea.100149@example.com,Lea,Lea Consulting,customer,PAID_SEARCH,gads_online_course_platform,2026-06-19 18:50:25,2026-07-17 21:50:25,false
+100547,felix.100547@example.com,Felix,Felix Akademie,subscriber,EMAIL_MARKETING,newsletter,2026-01-17 01:07:10,2026-02-07 04:07:10,false
+100433,leon.100433@example.com,Leon,Leon Akademie,lead,PAID_SEARCH,gads_brand,2025-08-11 06:14:03,2025-08-29 09:14:03,false
+100080,nina.100080@example.com,Nina,Nina Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-10-07 07:05:35,2025-11-03 10:05:35,false
+100167,noah.100167@example.com,Noah,Noah Consulting,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-09-11 00:56:37,2025-10-29 03:56:37,true
+100106,lukas.100106@example.com,Lukas,Lukas Academy,subscriber,EMAIL_MARKETING,webinar_followup,2026-02-14 22:05:32,2026-03-23 01:05:32,false
+100216,felix.100216@example.com,Felix,Felix Consulting,lead,ORGANIC_SEARCH,,2026-08-26 08:57:18,2026-08-26 10:57:18,false
+100012,anna.100012@example.com,Anna,Anna Academy,lead,PAID_SEARCH,gads_lms_competitor,2026-07-18 09:01:23,2026-07-18 11:01:23,false
+100239,nina.100239@example.com,Nina,Nina Consulting,opportunity,ORGANIC_SEARCH,,2026-08-30 09:27:37,2026-09-07 12:27:37,false
+100190,paul.100190@example.com,Paul,Paul Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-02-11 22:09:16,2025-04-06 01:09:16,false
+100193,lea.100193@example.com,Lea,Lea Coaching,marketingqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-01-11 03:11:26,2025-01-20 06:11:26,false
+100154,ben.100154@example.com,Ben,Ben Consulting,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-04-29 17:40:53,2026-06-16 20:40:53,false
+100436,felix.100436@example.com,Felix,Felix Akademie,lead,PAID_SOCIAL,meta_lookalike,2026-06-01 05:34:14,2026-07-08 08:34:14,false
+100469,nina.100469@example.com,Nina,Nina Academy,subscriber,DIRECT_TRAFFIC,,2026-07-25 01:36:18,2026-09-13 04:36:18,false
+100608,nina.100608@example.com,Nina,Nina Coaching,marketingqualifiedlead,ORGANIC_SEARCH,,2025-02-05 01:00:21,2025-03-14 04:00:21,false
+100589,sophie.100589@example.com,Sophie,Sophie Akademie,lead,PAID_SOCIAL,meta_coaches_q1,2026-08-03 17:24:13,2026-09-10 20:24:13,false
+100512,laura.100512@example.com,Laura,Laura Coaching,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-01-26 03:09:03,2025-03-07 06:09:03,false
+100341,lea.100341@example.com,Lea,Lea Studio,customer,ORGANIC_SEARCH,,2025-05-10 08:13:21,2025-06-15 11:13:21,false
+100117,jonas.100117@example.com,Jonas,Jonas Training GmbH,lead,EMAIL_MARKETING,webinar_followup,2026-01-29 18:26:00,2026-01-30 21:26:00,false
+100174,anna.100174@example.com,Anna,Anna Consulting,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2025-06-06 21:27:48,2025-07-29 00:27:48,false
+100356,mia.100356@example.com,Mia,Mia Studio,lead,PAID_SOCIAL,meta_lookalike,2026-06-05 22:57:44,2026-06-26 01:57:44,false
+100449,lukas.100449@example.com,Lukas,Lukas Akademie,subscriber,REFERRALS,,2026-02-27 19:03:21,2026-03-04 22:03:21,false
+100371,emma.100371@example.com,Emma,Emma Academy,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2025-08-26 20:34:42,2025-09-13 23:34:42,false
+100275,ben.100275@example.com,Ben,Ben Academy,lead,ORGANIC_SEARCH,,2025-12-09 09:20:14,2026-01-18 12:20:14,false
+100569,sophie.100569@example.com,Sophie,Sophie Academy,subscriber,PAID_SOCIAL,meta_lookalike,2025-02-20 23:35:59,2025-04-17 02:35:59,false
+100344,Jonas.100344@example.com,Jonas,Jonas Akademie,subscriber,PAID_SEARCH,gads_lms_competitor,2026-02-02 21:47:28,2026-02-18 00:47:28,false
+100095,sophie.100095@example.com,Sophie,Sophie Coaching,lead,PAID_SEARCH,gads_online_course_platform,2026-04-24 19:47:04,2026-06-03 22:47:04,false
+100632,tim.100632@example.com,Tim,Tim Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-04-26 11:16:25,2025-05-03 14:16:25,false
+100065,david.100065@example.com,David,David Training GmbH,subscriber,REFERRALS,,2026-08-08 16:29:15,2026-09-13 19:29:15,false
+100476,lukas.100476@example.com,Lukas,Lukas Studio,salesqualifiedlead,DIRECT_TRAFFIC,,2025-09-15 01:31:24,2025-10-01 04:31:24,false
+100289,nina.100289@example.com,Nina,Nina Studio,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-04-24 21:20:13,2025-04-24 23:20:13,false
+100186,nina.100186@example.com,Nina,Nina Academy,customer,ORGANIC_SEARCH,,2025-04-20 09:12:00,2025-05-28 12:12:00,false
+100053,  TIM.100053@EXAMPLE.COM ,Tim,Tim Akademie,salesqualifiedlead,ORGANIC_SEARCH,,2025-07-25 07:58:25,2025-09-19 10:58:25,false
+100097,nina.100097@example.com,Nina,Nina Training GmbH,lead,PAID_SEARCH,gads_brand,2026-08-29 08:33:01,2026-08-29 10:33:01,false
+100324,Max.100324@example.com,Max,Max Studio,customer,DIRECT_TRAFFIC,,2025-07-21 07:36:55,2025-09-09 10:36:55,false
+100293,lea.100293@example.com,Lea,Lea Coaching,subscriber,REFERRALS,,2025-09-13 00:40:28,2025-10-22 03:40:28,false
+100688,noah.100688@example.com,Noah,Noah Training GmbH,lead,ORGANIC_SEARCH,,2025-12-07 20:49:21,2026-01-28 23:49:21,false
+100683,sara.100683@example.com,Sara,Sara Academy,lead,REFERRALS,,2025-05-28 10:20:52,2025-05-30 13:20:52,false
+100348,emma.100348@example.com,Emma,Emma Consulting,subscriber,EMAIL_MARKETING,newsletter,2026-01-16 14:24:02,2026-02-05 17:24:02,false
+100009,emma.100009@example.com,Emma,Emma Akademie,subscriber,PAID_SOCIAL,meta_coaches_q1,2025-11-18 16:56:40,2025-12-31 19:56:40,false
+100682,laura.100682@example.com,Laura,Laura Akademie,customer,REFERRALS,,2025-06-27 23:58:45,2025-08-22 02:58:45,false
+100679,max.100679@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2025-08-28 11:17:47,2025-08-28 13:17:47,false
+100060,ben.100060@example.com,Ben,Ben Coaching,customer,ORGANIC_SEARCH,,2025-04-15 22:10:48,2025-05-06 01:10:48,false
+100310,paul.100310@example.com,Paul,Paul Studio,customer,REFERRALS,,2025-04-04 07:41:15,2025-05-27 10:41:15,false
+100467,Felix.100467@example.com,Felix,Felix Academy,lead,ORGANIC_SEARCH,,2025-03-01 08:57:34,2025-04-09 11:57:34,false
+100349,julia.100349@example.com,Julia,Julia Akademie,marketingqualifiedlead,ORGANIC_SEARCH,,2025-01-29 01:38:17,2025-02-28 04:38:17,false
+100396,lukas.100396@example.com,Lukas,Lukas Consulting,opportunity,PAID_SEARCH,gads_lms_competitor,2025-02-22 23:59:30,2025-03-26 02:59:30,false
+100098,sara.100098@example.com,Sara,Sara Academy,subscriber,DIRECT_TRAFFIC,,2026-02-03 07:12:15,2026-03-20 10:12:15,false
+100543,ben.100543@example.com,Ben,Ben Coaching,lead,ORGANIC_SEARCH,,2026-05-15 08:22:54,2026-07-04 11:22:54,false
+100028,tim.100028@example.com,Tim,Tim Coaching,customer,PAID_SEARCH,gads_brand,2026-07-01 15:09:05,2026-08-05 18:09:05,false
+100338,sophie.100338@example.com,Sophie,Sophie Studio,subscriber,PAID_SOCIAL,meta_lookalike,2025-02-23 17:48:25,2025-03-05 20:48:25,false
+100423,julia.100423@example.com,Julia,Julia Akademie,lead,ORGANIC_SEARCH,,2025-07-17 19:15:00,2025-09-07 22:15:00,true
+100330,hannah.100330@example.com,Hannah,Hannah Akademie,lead,PAID_SEARCH,gads_lms_competitor,2025-05-11 13:59:46,2025-06-07 16:59:46,false
+100284,david.100284@example.com,David,David Academy,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-05-11 00:46:04,2025-06-03 03:46:04,false
+100261,lukas.100261@example.com,Lukas,Lukas Academy,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-03-06 18:12:27,2026-03-11 21:12:27,false
+100182,paul.100182@example.com,Paul,Paul Studio,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-07-22 18:32:44,2025-08-09 21:32:44,false
+100196,mia.100196@example.com,Mia,Mia Academy,customer,REFERRALS,,2025-06-29 16:11:44,2025-08-09 19:11:44,false
+100260,  EMMA.100260@EXAMPLE.COM ,Emma,Emma Akademie,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-05-15 00:36:05,2025-07-03 03:36:05,false
+100094,hannah.100094@example.com,Hannah,Hannah Studio,lead,PAID_SOCIAL,meta_coaches_q1,2025-05-27 13:02:41,2025-06-13 16:02:41,false
+100574,max.100574@example.com,Max,Max Consulting,lead,PAID_SEARCH,gads_lms_competitor,2026-01-21 04:18:14,2026-03-09 07:18:14,false
+100594,max.100594@example.com,Max,Max Training GmbH,customer,ORGANIC_SEARCH,,2026-02-04 10:05:36,2026-02-21 13:05:36,false
+100372,tim.100372@example.com,Tim,Tim Akademie,lead,REFERRALS,,2025-12-02 19:37:37,2025-12-19 22:37:37,false
+100516,noah.100516@example.com,Noah,Noah Training GmbH,subscriber,REFERRALS,,2025-09-26 03:12:22,2025-10-12 06:12:22,false
+100072,paul.100072@example.com,Paul,Paul Academy,subscriber,PAID_SEARCH,gads_online_course_platform,2025-01-26 12:33:03,2025-02-22 15:33:03,false
+100656,emma.100656@example.com,Emma,Emma Studio,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-08-26 01:25:29,2025-10-16 04:25:29,false
+100503,max.100503@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2025-05-30 13:57:32,2025-07-28 16:57:32,false
+100343,emma.100343@example.com,Emma,Emma Studio,customer,EMAIL_MARKETING,webinar_followup,2025-11-05 03:13:50,2025-12-19 06:13:50,false
+100259,lukas.100259@example.com,Lukas,Lukas Coaching,subscriber,PAID_SOCIAL,meta_coaches_q1,2025-05-23 16:08:43,2025-07-09 19:08:43,false
+100257,emma.100257@example.com,Emma,Emma Consulting,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-11-26 15:24:14,2025-11-30 18:24:14,false
+100527,Nina.100527@example.com,Nina,Nina Consulting,subscriber,DIRECT_TRAFFIC,,2025-10-09 05:24:46,2025-11-18 08:24:46,false
+100019,ben.100019@example.com,Ben,Ben Consulting,subscriber,PAID_SEARCH,gads_brand,2025-06-04 22:07:43,2025-07-11 01:07:43,false
+100561,tim.100561@example.com,Tim,Tim Training GmbH,opportunity,ORGANIC_SEARCH,,2025-08-24 20:36:12,2025-10-14 23:36:12,false
+100563,felix.100563@example.com,Felix,Felix Akademie,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-04-08 04:21:32,2025-05-03 07:21:32,false
+100100,  LEON.100100@EXAMPLE.COM ,Leon,Leon Coaching,opportunity,DIRECT_TRAFFIC,,2025-06-13 02:10:08,2025-08-08 05:10:08,false
+100085,  TIM.100085@EXAMPLE.COM ,Tim,Tim Studio,subscriber,PAID_SEARCH,gads_online_course_platform,2026-06-19 18:22:21,2026-06-21 21:22:21,false
+100580,jonas.100580@example.com,Jonas,Jonas Academy,opportunity,REFERRALS,,2025-12-27 10:18:54,2026-02-16 13:18:54,false
+100194,tim.100194@example.com,Tim,Tim Akademie,customer,EMAIL_MARKETING,newsletter,2026-01-22 19:53:47,2026-03-08 22:53:47,false
+100600,hannah.100600@example.com,Hannah,Hannah Studio,subscriber,PAID_SOCIAL,meta_lookalike,2026-06-29 10:51:20,2026-06-30 13:51:20,false
+100223,nina.100223@example.com,Nina,Nina Akademie,lead,ORGANIC_SEARCH,,2026-08-17 10:33:45,2026-09-15 00:00:00,false
+100147,max.100147@example.com,Max,Max Academy,lead,ORGANIC_SEARCH,,2025-09-09 02:25:21,2025-09-09 04:25:21,false
+100403,  NOAH.100403@EXAMPLE.COM ,Noah,Noah Coaching,lead,ORGANIC_SEARCH,,2026-05-17 10:56:50,2026-06-24 13:56:50,false
+100234,emma.100234@example.com,Emma,Emma Coaching,lead,PAID_SEARCH,gads_brand,2025-02-05 19:10:56,2025-04-03 22:10:56,false
+100518,mia.100518@example.com,Mia,Mia Studio,lead,PAID_SEARCH,gads_brand,2025-09-13 04:59:33,2025-10-22 07:59:33,false
+100055,julia.100055@example.com,Julia,Julia Training GmbH,lead,ORGANIC_SEARCH,,2025-06-23 03:08:35,2025-07-31 06:08:35,true
+100070,leon.100070@example.com,Leon,Leon Coaching,customer,DIRECT_TRAFFIC,,2025-09-01 07:46:22,2025-09-07 10:46:22,false
+100032,ben.100032@example.com,Ben,Ben Akademie,lead,REFERRALS,,2025-07-04 00:12:40,2025-08-08 03:12:40,false
+100185,max.100185@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2026-04-26 11:47:46,2026-05-08 14:47:46,false
+100648,sara.100648@example.com,Sara,Sara Akademie,customer,EMAIL_MARKETING,webinar_followup,2026-04-09 18:16:35,2026-05-21 21:16:35,false
+100180,max.100180@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2025-04-20 09:33:23,2025-05-25 12:33:23,false
+100014,sophie.100014@example.com,Sophie,Sophie Training GmbH,marketingqualifiedlead,ORGANIC_SEARCH,,2026-06-21 07:51:28,2026-06-24 10:51:28,false
+100609,felix.100609@example.com,Felix,Felix Training GmbH,opportunity,EMAIL_MARKETING,webinar_followup,2025-12-25 02:57:16,2026-02-10 05:57:16,false
+100300,  MIA.100300@EXAMPLE.COM ,Mia,Mia Akademie,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-01-17 10:39:05,2026-02-22 13:39:05,false
+100179,tim.100179@example.com,Tim,Tim Training GmbH,subscriber,PAID_SOCIAL,meta_coaches_q1,2026-02-24 03:36:22,2026-04-25 06:36:22,false
+100020,paul.100020@example.com,Paul,Paul Training GmbH,subscriber,REFERRALS,,2025-01-29 23:17:22,2025-03-24 02:17:22,false
+100353,leon.100353@example.com,Leon,Leon Training GmbH,lead,PAID_SEARCH,gads_online_course_platform,2026-08-05 23:56:52,2026-08-25 02:56:52,false
+100522,anna.100522@example.com,Anna,Anna Akademie,lead,REFERRALS,,2025-09-02 13:13:31,2025-09-23 16:13:31,false
+100192,mia.100192@example.com,Mia,Mia Training GmbH,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-03-27 05:04:21,2025-05-10 08:04:21,true
+100505,emma.100505@example.com,Emma,Emma Consulting,salesqualifiedlead,ORGANIC_SEARCH,,2025-11-09 23:29:49,2025-12-08 02:29:49,false
+100096,julia.100096@example.com,Julia,Julia Training GmbH,customer,PAID_SEARCH,gads_online_course_platform,2025-02-17 15:38:30,2025-03-12 18:38:30,false
+100422,  BEN.100422@EXAMPLE.COM ,Ben,Ben Akademie,customer,ORGANIC_SEARCH,,2025-07-01 10:07:31,2025-08-06 13:07:31,false
+100663,noah.100663@example.com,Noah,Noah Akademie,customer,PAID_SEARCH,gads_brand,2025-06-30 02:12:30,2025-08-27 05:12:30,false
+100313,david.100313@example.com,David,David Training GmbH,lead,PAID_SOCIAL,meta_coaches_q1,2026-01-05 13:25:47,2026-01-05 15:25:47,false
+100033,david.100033@example.com,David,David Academy,marketingqualifiedlead,DIRECT_TRAFFIC,,2026-05-02 05:21:28,2026-06-21 08:21:28,false
+100283,max.100283@example.com,Max,Max Studio,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-09-09 18:36:10,2025-11-07 21:36:10,false
+100274,laura.100274@example.com,Laura,Laura Consulting,subscriber,PAID_SOCIAL,meta_coaches_q1,2026-05-16 05:09:45,2026-05-18 08:09:45,false
+100496,hannah.100496@example.com,Hannah,Hannah Studio,marketingqualifiedlead,ORGANIC_SEARCH,,2025-03-07 09:01:43,2025-04-13 12:01:43,false
+100451,sophie.100451@example.com,Sophie,Sophie Consulting,lead,DIRECT_TRAFFIC,,2025-03-02 07:21:04,2025-03-02 09:21:04,false
+100515,nina.100515@example.com,Nina,Nina Training GmbH,subscriber,PAID_SEARCH,gads_lms_competitor,2025-07-24 11:29:35,2025-08-09 14:29:35,false
+100677,  LEON.100677@EXAMPLE.COM ,Leon,Leon Training GmbH,opportunity,PAID_SEARCH,gads_brand,2026-07-20 23:32:39,2026-09-15 00:00:00,false
+100220,jonas.100220@example.com,Jonas,Jonas Coaching,customer,ORGANIC_SEARCH,,2026-07-30 11:23:07,2026-08-25 14:23:07,false
+100588,hannah.100588@example.com,Hannah,Hannah Training GmbH,marketingqualifiedlead,ORGANIC_SEARCH,,2026-01-27 10:39:14,2026-03-11 13:39:14,false
+100029,sara.100029@example.com,Sara,Sara Consulting,marketingqualifiedlead,REFERRALS,,2025-07-12 05:57:31,2025-07-19 08:57:31,false
+100509,paul.100509@example.com,Paul,Paul Studio,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-01-12 16:39:17,2025-02-02 19:39:17,false
+100026,Ben.100026@example.com,Ben,Ben Studio,subscriber,PAID_SOCIAL,meta_lookalike,2026-07-01 11:15:13,2026-07-09 14:15:13,false
+100322,laura.100322@example.com,Laura,Laura Studio,marketingqualifiedlead,ORGANIC_SEARCH,,2025-06-29 01:06:31,2025-07-08 04:06:31,false
+100409,laura.100409@example.com,Laura,Laura Akademie,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-09-18 16:31:27,2025-10-16 19:31:27,false
+100572,julia.100572@example.com,Julia,Julia Studio,lead,ORGANIC_SEARCH,,2025-01-02 01:59:36,2025-02-24 04:59:36,false
+100669,hannah.100669@example.com,Hannah,Hannah Studio,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-06-16 21:55:51,2025-07-24 00:55:51,false
+100030,Felix.100030@example.com,Felix,Felix Akademie,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-01-13 03:39:31,2025-01-16 06:39:31,false
+100629,jonas.100629@example.com,Jonas,Jonas Coaching,salesqualifiedlead,REFERRALS,,2026-08-07 12:56:57,2026-09-15 00:00:00,false
+100417,leon.100417@example.com,Leon,Leon Training GmbH,opportunity,DIRECT_TRAFFIC,,2026-06-07 09:46:34,2026-08-01 12:46:34,false
+100287,noah.100287@example.com,Noah,Noah Consulting,marketingqualifiedlead,REFERRALS,,2026-06-27 23:41:52,2026-07-01 02:41:52,false
+100155,sara.100155@example.com,Sara,Sara Coaching,customer,ORGANIC_SEARCH,,2025-08-10 15:54:03,2025-08-17 18:54:03,false
+100141,noah.100141@example.com,Noah,Noah Studio,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-10-08 18:28:17,2025-11-05 21:28:17,false
+100658,noah.100658@example.com,Noah,Noah Training GmbH,lead,DIRECT_TRAFFIC,,2025-10-04 16:05:18,2025-10-13 19:05:18,false
+100304,tim.100304@example.com,Tim,Tim Studio,lead,ORGANIC_SEARCH,,2026-02-11 19:41:00,2026-03-07 22:41:00,false
+100105,lea.100105@example.com,Lea,Lea Training GmbH,opportunity,ORGANIC_SEARCH,,2026-07-19 02:27:47,2026-08-02 05:27:47,false
+100292,mia.100292@example.com,Mia,Mia Consulting,customer,DIRECT_TRAFFIC,,2025-05-20 23:52:30,2025-06-11 02:52:30,false
+100254,emma.100254@example.com,Emma,Emma Academy,subscriber,DIRECT_TRAFFIC,,2026-07-25 03:58:57,2026-08-16 06:58:57,false
+100378,david.100378@example.com,David,David Akademie,opportunity,PAID_SOCIAL,meta_lookalike,2026-05-27 00:37:53,2026-06-24 03:37:53,false
+100623,hannah.100623@example.com,Hannah,Hannah Akademie,customer,ORGANIC_SEARCH,,2026-07-18 13:35:16,2026-07-27 16:35:16,false
+100145,  NINA.100145@EXAMPLE.COM ,Nina,Nina Training GmbH,subscriber,ORGANIC_SEARCH,,2025-01-13 17:31:11,2025-03-07 20:31:11,false
+100240,  LEON.100240@EXAMPLE.COM ,Leon,Leon Training GmbH,subscriber,REFERRALS,,2026-02-20 01:37:29,2026-04-16 04:37:29,false
+100639,emma.100639@example.com,Emma,Emma Akademie,lead,REFERRALS,,2026-07-01 23:26:44,2026-07-23 02:26:44,false
+100251,leon.100251@example.com,Leon,Leon Studio,subscriber,PAID_SOCIAL,meta_coaches_q1,2026-05-30 12:32:55,2026-07-03 15:32:55,false
+100548,david.100548@example.com,David,David Akademie,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-02-08 17:08:58,2026-03-14 20:08:58,false
+100112,ben.100112@example.com,Ben,Ben Akademie,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-06-14 17:43:56,2026-07-01 20:43:56,false
+100013,Noah.100013@example.com,Noah,Noah Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_brand,2026-02-12 04:23:56,2026-02-24 07:23:56,true
+100039,Jonas.100039@example.com,Jonas,Jonas Training GmbH,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-08-20 19:59:40,2025-09-30 22:59:40,false
+100345,jonas.100345@example.com,Jonas,Jonas Training GmbH,subscriber,EMAIL_MARKETING,newsletter,2025-08-14 19:04:23,2025-09-29 22:04:23,false
+100553,hannah.100553@example.com,Hannah,Hannah Akademie,subscriber,ORGANIC_SEARCH,,2025-11-04 17:03:22,2025-11-27 20:03:22,false
+100686,felix.100686@example.com,Felix,Felix Training GmbH,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2026-06-10 01:30:42,2026-07-30 04:30:42,false
+100177,mia.100177@example.com,Mia,Mia Studio,subscriber,EMAIL_MARKETING,newsletter,2026-09-07 08:51:14,2026-09-15 00:00:00,false
+100579,  MIA.100579@EXAMPLE.COM ,Mia,Mia Academy,opportunity,EMAIL_MARKETING,webinar_followup,2025-11-27 16:55:12,2026-01-21 19:55:12,false
+100577,tim.100577@example.com,Tim,Tim Studio,subscriber,ORGANIC_SEARCH,,2026-06-25 11:22:46,2026-08-03 14:22:46,true
+100209,nina.100209@example.com,Nina,Nina Studio,marketingqualifiedlead,REFERRALS,,2025-01-05 08:01:33,2025-01-26 11:01:33,false
+100493,  DAVID.100493@EXAMPLE.COM ,David,David Consulting,lead,PAID_SOCIAL,meta_lookalike,2025-10-25 15:11:56,2025-11-23 18:11:56,false
+100314,  SOPHIE.100314@EXAMPLE.COM ,Sophie,Sophie Academy,lead,ORGANIC_SEARCH,,2025-06-10 22:37:23,2025-06-13 01:37:23,false
+100078,nina.100078@example.com,Nina,Nina Training GmbH,customer,DIRECT_TRAFFIC,,2026-03-22 17:52:29,2026-04-15 20:52:29,false
+100011,max.100011@example.com,Max,Max Studio,lead,REFERRALS,,2026-02-18 11:32:01,2026-04-02 14:32:01,false
+100215,julia.100215@example.com,Julia,Julia Academy,customer,ORGANIC_SEARCH,,2026-08-21 22:51:43,2026-09-15 00:00:00,false
+100278,Julia.100278@example.com,Julia,Julia Coaching,customer,DIRECT_TRAFFIC,,2025-12-11 23:34:43,2026-01-26 02:34:43,false
+100298,leon.100298@example.com,Leon,Leon Akademie,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-02-26 11:56:01,2026-04-20 14:56:01,false
+100376,mia.100376@example.com,Mia,Mia Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2025-08-14 00:15:06,2025-10-12 03:15:06,false
+100295,max.100295@example.com,Max,Max Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-12-10 17:03:29,2026-01-28 20:03:29,false
+100610,  TIM.100610@EXAMPLE.COM ,Tim,Tim Akademie,lead,PAID_SOCIAL,meta_lookalike,2025-08-28 05:56:37,2025-08-28 08:56:37,false
+100099,  FELIX.100099@EXAMPLE.COM ,Felix,Felix Consulting,lead,ORGANIC_SEARCH,,2026-02-19 10:23:14,2026-04-10 13:23:14,false
+100689,felix.100689@example.com,Felix,Felix Academy,opportunity,PAID_SEARCH,gads_lms_competitor,2026-07-06 02:58:12,2026-07-28 05:58:12,false
+100655,Sophie.100655@example.com,Sophie,Sophie Akademie,lead,DIRECT_TRAFFIC,,2026-06-07 03:50:31,2026-08-02 06:50:31,false
+100578,laura.100578@example.com,Laura,Laura Coaching,lead,ORGANIC_SEARCH,,2025-08-05 01:01:36,2025-08-05 03:01:36,false
+100581,tim.100581@example.com,Tim,Tim Akademie,customer,EMAIL_MARKETING,newsletter,2026-01-08 06:43:34,2026-01-25 09:43:34,false
+100208,paul.100208@example.com,Paul,Paul Coaching,customer,ORGANIC_SEARCH,,2025-10-19 02:43:14,2025-12-12 05:43:14,false
+100126,hannah.100126@example.com,Hannah,Hannah Academy,opportunity,PAID_SEARCH,gads_brand,2025-06-30 15:18:49,2025-08-06 18:18:49,false
+100596,Laura.100596@example.com,Laura,Laura Studio,lead,DIRECT_TRAFFIC,,2025-03-11 09:09:53,2025-04-25 12:09:53,false
+100213,  HANNAH.100213@EXAMPLE.COM ,Hannah,Hannah Academy,customer,ORGANIC_SEARCH,,2025-11-16 00:32:34,2025-12-15 03:32:34,false
+100073,hannah.100073@example.com,Hannah,Hannah Studio,lead,PAID_SEARCH,gads_lms_competitor,2025-03-26 23:01:41,2025-04-26 02:01:41,false
+100437,sophie.100437@example.com,Sophie,Sophie Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-07-22 10:35:24,2025-08-28 13:35:24,false
+100367,laura.100367@example.com,Laura,Laura Studio,salesqualifiedlead,ORGANIC_SEARCH,,2025-09-19 11:16:39,2025-11-06 14:16:39,false
+100539,lukas.100539@example.com,Lukas,Lukas Training GmbH,lead,PAID_SEARCH,gads_online_course_platform,2025-03-24 15:10:14,2025-05-20 18:10:14,false
+100332,sara.100332@example.com,Sara,Sara Training GmbH,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-08-12 17:06:34,2025-10-04 20:06:34,false
+100142,sophie.100142@example.com,Sophie,Sophie Akademie,lead,PAID_SEARCH,gads_brand,2026-08-02 15:14:07,2026-09-15 00:00:00,false
+100421,ben.100421@example.com,Ben,Ben Consulting,customer,ORGANIC_SEARCH,,2026-08-13 22:23:28,2026-09-10 01:23:28,false
+100326,Tim.100326@example.com,Tim,Tim Akademie,customer,ORGANIC_SEARCH,,2025-01-21 11:07:01,2025-02-19 14:07:01,false
+100508,  SOPHIE.100508@EXAMPLE.COM ,Sophie,Sophie Akademie,lead,ORGANIC_SEARCH,,2025-12-24 05:20:03,2026-01-28 08:20:03,false
+100228,ben.100228@example.com,Ben,Ben Academy,subscriber,PAID_SOCIAL,meta_coaches_q1,2025-02-23 16:20:35,2025-02-24 19:20:35,false
+100148,laura.100148@example.com,Laura,Laura Studio,subscriber,PAID_SEARCH,gads_lms_competitor,2025-05-04 04:33:46,2025-05-12 07:33:46,false
+100321,paul.100321@example.com,Paul,Paul Training GmbH,lead,PAID_SEARCH,gads_online_course_platform,2026-06-18 16:46:22,2026-06-28 19:46:22,true
+100605,leon.100605@example.com,Leon,Leon Consulting,lead,ORGANIC_SEARCH,,2026-01-08 12:02:11,2026-02-22 15:02:11,false
+100335,david.100335@example.com,David,David Consulting,lead,PAID_SOCIAL,meta_coaches_q1,2026-08-14 22:03:58,2026-08-31 01:03:58,false
+100643,sophie.100643@example.com,Sophie,Sophie Academy,lead,PAID_SEARCH,gads_online_course_platform,2025-03-13 23:35:35,2025-04-01 02:35:35,true
+100266,laura.100266@example.com,Laura,Laura Consulting,subscriber,PAID_SOCIAL,meta_lookalike,2026-03-08 14:44:49,2026-04-14 17:44:49,false
+100328,tim.100328@example.com,Tim,Tim Studio,subscriber,EMAIL_MARKETING,webinar_followup,2026-03-23 17:54:15,2026-05-03 20:54:15,false
+100571,leon.100571@example.com,Leon,Leon Studio,salesqualifiedlead,ORGANIC_SEARCH,,2026-07-12 10:31:34,2026-07-12 13:31:34,false
+100086,lea.100086@example.com,Lea,Lea Consulting,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2025-01-22 22:43:53,2025-03-24 01:43:53,false
+100189,max.100189@example.com,Max,Max Akademie,salesqualifiedlead,ORGANIC_SEARCH,,2026-03-28 23:06:45,2026-05-23 02:06:45,false
+100205,  JULIA.100205@EXAMPLE.COM ,Julia,Julia Consulting,marketingqualifiedlead,ORGANIC_SEARCH,,2026-08-30 19:40:23,2026-09-07 22:40:23,false
+100221,emma.100221@example.com,Emma,Emma Studio,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2025-07-08 08:34:58,2025-08-07 11:34:58,false
+100150,emma.100150@example.com,Emma,Emma Akademie,subscriber,PAID_SEARCH,gads_lms_competitor,2025-03-31 12:23:59,2025-05-11 15:23:59,false
+100107,tim.100107@example.com,Tim,Tim Akademie,lead,ORGANIC_SEARCH,,2026-08-20 05:54:37,2026-09-15 00:00:00,false
+100374,Tim.100374@example.com,Tim,Tim Coaching,lead,PAID_SEARCH,gads_online_course_platform,2025-05-17 15:36:32,2025-05-20 18:36:32,false
+100236,hannah.100236@example.com,Hannah,Hannah Akademie,lead,PAID_SEARCH,gads_online_course_platform,2025-07-06 23:40:48,2025-08-29 02:40:48,true
+100233,noah.100233@example.com,Noah,Noah Consulting,lead,PAID_SOCIAL,meta_coaches_q1,2025-09-20 11:36:15,2025-10-24 14:36:15,false
+100439,anna.100439@example.com,Anna,Anna Academy,lead,PAID_SEARCH,gads_brand,2025-10-29 14:41:25,2025-12-26 17:41:25,false
+100063,  EMMA.100063@EXAMPLE.COM ,Emma,Emma Consulting,customer,ORGANIC_SEARCH,,2026-09-01 18:23:52,2026-09-08 21:23:52,false
+100272,mia.100272@example.com,Mia,Mia Coaching,lead,PAID_SOCIAL,meta_coaches_q1,2025-08-22 08:58:15,2025-10-12 11:58:15,false
+100069,nina.100069@example.com,Nina,Nina Training GmbH,lead,ORGANIC_SEARCH,,2026-03-30 17:50:43,2026-04-11 20:50:43,false
+100183,nina.100183@example.com,Nina,Nina Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2025-10-10 02:17:31,2025-10-29 05:17:31,false
+100654,julia.100654@example.com,Julia,Julia Akademie,subscriber,DIRECT_TRAFFIC,,2025-04-26 21:56:57,2025-06-06 00:56:57,false
+100394,paul.100394@example.com,Paul,Paul Coaching,lead,ORGANIC_SEARCH,,2026-01-17 07:33:01,2026-01-17 09:33:01,false
+100054,hannah.100054@example.com,Hannah,Hannah Academy,lead,REFERRALS,,2025-07-24 12:34:02,2025-09-03 15:34:02,false
+100452,felix.100452@example.com,Felix,Felix Studio,lead,ORGANIC_SEARCH,,2025-03-20 10:21:00,2025-03-20 12:21:00,false
+100210,lukas.100210@example.com,Lukas,Lukas Coaching,lead,REFERRALS,,2026-08-13 05:45:59,2026-09-15 00:00:00,false
+100570,Laura.100570@example.com,Laura,Laura Studio,subscriber,ORGANIC_SEARCH,,2026-02-22 05:31:40,2026-03-08 08:31:40,false
+100010,felix.100010@example.com,Felix,Felix Training GmbH,customer,PAID_SOCIAL,meta_coaches_q1,2025-02-05 06:38:27,2025-02-24 09:38:27,false
+100027,david.100027@example.com,David,David Studio,salesqualifiedlead,DIRECT_TRAFFIC,,2025-10-18 04:52:18,2025-12-09 07:52:18,false
+100506,  SOPHIE.100506@EXAMPLE.COM ,Sophie,Sophie Training GmbH,customer,ORGANIC_SEARCH,,2025-10-08 16:05:52,2025-11-07 19:05:52,false
+100139,ben.100139@example.com,Ben,Ben Akademie,lead,PAID_SOCIAL,meta_lookalike,2026-01-29 12:43:24,2026-03-11 15:43:24,false
+100162,  FELIX.100162@EXAMPLE.COM ,Felix,Felix Training GmbH,lead,PAID_SEARCH,gads_brand,2025-04-06 11:48:40,2025-04-09 14:48:40,false
+100079,felix.100079@example.com,Felix,Felix Training GmbH,lead,ORGANIC_SEARCH,,2025-06-03 10:20:34,2025-07-13 13:20:34,false
+100481,ben.100481@example.com,Ben,Ben Consulting,subscriber,PAID_SEARCH,gads_lms_competitor,2026-03-22 03:49:30,2026-03-26 06:49:30,false
+100198,noah.100198@example.com,Noah,Noah Consulting,customer,PAID_SEARCH,gads_brand,2025-05-13 16:13:15,2025-06-10 19:13:15,false
+100191,emma.100191@example.com,Emma,Emma Coaching,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-02-15 22:48:52,2025-04-03 01:48:52,false
+100406,max.100406@example.com,Max,Max Akademie,lead,PAID_SOCIAL,meta_lookalike,2025-08-25 21:48:03,2025-10-16 00:48:03,false
+100370,  DAVID.100370@EXAMPLE.COM ,David,David Training GmbH,lead,EMAIL_MARKETING,webinar_followup,2026-05-17 01:47:48,2026-07-06 04:47:48,false
+100125,david.100125@example.com,David,David Studio,subscriber,EMAIL_MARKETING,newsletter,2026-01-17 05:21:29,2026-02-14 08:21:29,false
+100263,julia.100263@example.com,Julia,Julia Training GmbH,customer,EMAIL_MARKETING,webinar_followup,2025-10-19 01:26:07,2025-11-10 04:26:07,false
+100430,lea.100430@example.com,Lea,Lea Studio,lead,ORGANIC_SEARCH,,2026-06-19 03:10:23,2026-08-03 06:10:23,false
+100017,max.100017@example.com,Max,Max Consulting,lead,ORGANIC_SEARCH,,2025-06-10 23:56:17,2025-07-15 02:56:17,false
+100585,lea.100585@example.com,Lea,Lea Studio,customer,ORGANIC_SEARCH,,2025-03-17 10:50:48,2025-04-16 13:50:48,false
+100620,julia.100620@example.com,Julia,Julia Training GmbH,lead,EMAIL_MARKETING,newsletter,2026-05-16 10:35:43,2026-06-30 13:35:43,false
+100407,mia.100407@example.com,Mia,Mia Coaching,opportunity,ORGANIC_SEARCH,,2025-11-17 15:43:59,2025-12-03 18:43:59,false
+100560,david.100560@example.com,David,David Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2026-03-06 12:19:02,2026-03-07 15:19:02,false
+100143,sara.100143@example.com,Sara,Sara Training GmbH,lead,REFERRALS,,2025-11-10 04:58:11,2026-01-09 07:58:11,true
+100245,leon.100245@example.com,Leon,Leon Training GmbH,lead,ORGANIC_SEARCH,,2025-05-13 16:06:46,2025-06-21 19:06:46,false
+100568,julia.100568@example.com,Julia,Julia Studio,customer,EMAIL_MARKETING,newsletter,2025-12-20 08:38:34,2026-02-09 11:38:34,false
+100412,noah.100412@example.com,Noah,Noah Studio,opportunity,PAID_SOCIAL,meta_coaches_q1,2025-11-12 10:18:53,2026-01-07 13:18:53,false
+100368,anna.100368@example.com,Anna,Anna Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-09-17 09:33:07,2025-09-27 12:33:07,false
+100673,lea.100673@example.com,Lea,Lea Consulting,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2025-09-05 03:56:13,2025-10-28 06:56:13,false
+100237,  LUKAS.100237@EXAMPLE.COM ,Lukas,Lukas Akademie,lead,ORGANIC_SEARCH,,2025-10-03 16:46:15,2025-11-21 19:46:15,false
+100173,paul.100173@example.com,Paul,Paul Akademie,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-10-05 13:45:10,2025-12-03 16:45:10,false
+100564,hannah.100564@example.com,Hannah,Hannah Training GmbH,lead,ORGANIC_SEARCH,,2026-08-23 00:25:33,2026-09-15 00:00:00,false
+100622,david.100622@example.com,David,David Consulting,opportunity,ORGANIC_SEARCH,,2025-08-09 08:41:17,2025-09-11 11:41:17,false
+100277,max.100277@example.com,Max,Max Akademie,lead,EMAIL_MARKETING,webinar_followup,2025-12-12 06:22:29,2025-12-24 09:22:29,false
+100306,felix.100306@example.com,Felix,Felix Training GmbH,subscriber,PAID_SOCIAL,meta_coaches_q1,2026-02-23 22:45:36,2026-03-09 01:45:36,false
+100615,max.100615@example.com,Max,Max Akademie,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-07-09 14:51:39,2025-08-08 17:51:39,false
+100380,felix.100380@example.com,Felix,Felix Training GmbH,customer,ORGANIC_SEARCH,,2025-07-25 13:58:23,2025-09-22 16:58:23,false
+100626,anna.100626@example.com,Anna,Anna Consulting,marketingqualifiedlead,EMAIL_MARKETING,webinar_followup,2025-03-13 07:52:24,2025-05-04 10:52:24,false
+100320,max.100320@example.com,Max,Max Coaching,lead,ORGANIC_SEARCH,,2026-07-11 15:07:47,2026-08-21 18:07:47,false
+100641,david.100641@example.com,David,David Akademie,marketingqualifiedlead,EMAIL_MARKETING,newsletter,2025-06-18 14:59:33,2025-07-19 17:59:33,false
+100265,julia.100265@example.com,Julia,Julia Consulting,subscriber,PAID_SEARCH,gads_lms_competitor,2025-04-17 01:17:35,2025-05-11 04:17:35,false
+100212,lukas.100212@example.com,Lukas,Lukas Training GmbH,customer,PAID_SEARCH,gads_brand,2025-08-20 17:31:54,2025-09-29 20:31:54,false
+100230,leon.100230@example.com,Leon,Leon Consulting,salesqualifiedlead,ORGANIC_SEARCH,,2025-01-08 02:34:25,2025-01-19 05:34:25,false
+100432,felix.100432@example.com,Felix,Felix Academy,lead,PAID_SOCIAL,meta_coaches_q1,2025-03-31 08:20:19,2025-05-01 11:20:19,false
+100122,felix.100122@example.com,Felix,Felix Studio,lead,PAID_SEARCH,gads_lms_competitor,2026-04-15 05:05:00,2026-04-29 08:05:00,false
+100548,david.100548@example.com,David,David Akademie,lead,PAID_SEARCH,gads_lms_competitor,2026-02-08 17:08:58,2026-02-08 19:08:58,false
+100526,ben.100526@example.com,Ben,Ben Studio,subscriber,ORGANIC_SEARCH,,2025-02-23 12:44:02,2025-04-09 15:44:02,false
+100652,sara.100652@example.com,Sara,Sara Studio,customer,ORGANIC_SEARCH,,2025-05-03 04:43:04,2025-06-18 07:43:04,false
+100573,ben.100573@example.com,Ben,Ben Studio,lead,EMAIL_MARKETING,newsletter,2025-12-03 14:18:39,2025-12-11 17:18:39,false
+100090,mia.100090@example.com,Mia,Mia Studio,marketingqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-03-17 05:48:00,2025-03-27 08:48:00,false
+100282,lea.100282@example.com,Lea,Lea Academy,lead,REFERRALS,,2025-04-08 19:22:52,2025-05-07 22:22:52,false
+100468,  SARA.100468@EXAMPLE.COM ,Sara,Sara Studio,customer,REFERRALS,,2025-04-13 22:06:23,2025-04-21 01:06:23,false
+100064,felix.100064@example.com,Felix,Felix Training GmbH,subscriber,ORGANIC_SEARCH,,2026-06-29 07:23:25,2026-07-08 10:23:25,false
+100229,noah.100229@example.com,Noah,Noah Akademie,lead,EMAIL_MARKETING,webinar_followup,2026-04-24 10:25:25,2026-06-12 13:25:25,false
+100379,lea.100379@example.com,Lea,Lea Coaching,subscriber,PAID_SOCIAL,meta_lookalike,2025-08-17 23:42:46,2025-09-28 02:42:46,true
+100108,tim.100108@example.com,Tim,Tim Studio,lead,PAID_SOCIAL,meta_coaches_q1,2025-03-01 09:00:54,2025-04-06 12:00:54,false
+100166,david.100166@example.com,David,David Coaching,lead,ORGANIC_SEARCH,,2026-08-17 06:06:27,2026-09-15 00:00:00,false
+100158,noah.100158@example.com,Noah,Noah Coaching,marketingqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-02-14 11:10:19,2025-04-05 14:10:19,false
+100445,tim.100445@example.com,Tim,Tim Studio,customer,REFERRALS,,2025-11-21 18:53:49,2025-12-05 21:53:49,false
+100133,  JONAS.100133@EXAMPLE.COM ,Jonas,Jonas Akademie,subscriber,ORGANIC_SEARCH,,2025-04-10 19:53:42,2025-04-15 22:53:42,false
+100023,ben.100023@example.com,Ben,Ben Academy,customer,EMAIL_MARKETING,newsletter,2026-09-07 04:58:39,2026-09-15 00:00:00,false
+100159,paul.100159@example.com,Paul,Paul Coaching,lead,EMAIL_MARKETING,newsletter,2025-07-22 13:44:24,2025-08-21 16:44:24,false
+100084,nina.100084@example.com,Nina,Nina Academy,marketingqualifiedlead,REFERRALS,,2025-04-07 16:25:44,2025-05-25 19:25:44,false
+100067,nina.100067@example.com,Nina,Nina Training GmbH,subscriber,PAID_SEARCH,gads_lms_competitor,2026-07-03 01:28:58,2026-08-31 04:28:58,false
+100114,  LAURA.100114@EXAMPLE.COM ,Laura,Laura Studio,lead,PAID_SOCIAL,meta_coaches_q1,2025-01-27 07:00:20,2025-02-17 10:00:20,false
+100202,jonas.100202@example.com,Jonas,Jonas Studio,opportunity,ORGANIC_SEARCH,,2025-01-23 18:19:59,2025-02-19 21:19:59,true
+100456,tim.100456@example.com,Tim,Tim Training GmbH,marketingqualifiedlead,DIRECT_TRAFFIC,,2025-11-06 00:43:18,2025-12-30 03:43:18,false
+100542,Lea.100542@example.com,Lea,Lea Academy,marketingqualifiedlead,ORGANIC_SEARCH,,2025-01-09 18:59:58,2025-02-28 21:59:58,true
+100076,Ben.100076@example.com,Ben,Ben Academy,customer,ORGANIC_SEARCH,,2025-07-02 05:40:21,2025-07-12 08:40:21,false
+100047,  DAVID.100047@EXAMPLE.COM ,David,David Akademie,marketingqualifiedlead,PAID_SEARCH,gads_brand,2025-09-03 16:52:38,2025-09-20 19:52:38,false
+100243,lea.100243@example.com,Lea,Lea Studio,customer,REFERRALS,,2025-07-30 07:10:02,2025-08-16 10:10:02,false
+100325,julia.100325@example.com,Julia,Julia Training GmbH,opportunity,DIRECT_TRAFFIC,,2026-06-26 07:18:36,2026-07-17 10:18:36,false
+100385,felix.100385@example.com,Felix,Felix Coaching,lead,PAID_SEARCH,gads_online_course_platform,2025-12-26 12:15:45,2025-12-26 14:15:45,false
+100690,sara.100690@example.com,Sara,Sara Akademie,subscriber,ORGANIC_SEARCH,,2026-03-24 05:44:00,2026-04-04 08:44:00,false
+100470,mia.100470@example.com,Mia,Mia Coaching,lead,PAID_SOCIAL,meta_coaches_q1,2026-01-06 09:12:53,2026-01-11 12:12:53,false
+100414,leon.100414@example.com,Leon,Leon Consulting,subscriber,PAID_SEARCH,gads_brand,2025-02-07 01:53:34,2025-04-03 04:53:34,false
+100182,paul.100182@example.com,Paul,Paul Studio,lead,PAID_SEARCH,gads_brand,2025-07-22 18:32:44,2025-07-22 20:32:44,false
+100130,laura.100130@example.com,Laura,Laura Training GmbH,salesqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-03-05 08:32:42,2025-03-08 11:32:42,false
+100647,ben.100647@example.com,Ben,Ben Consulting,customer,EMAIL_MARKETING,webinar_followup,2025-09-01 10:10:20,2025-10-26 13:10:20,false
+100169,lea.100169@example.com,Lea,Lea Training GmbH,lead,EMAIL_MARKETING,newsletter,2026-02-27 22:13:24,2026-03-24 01:13:24,false
+100225,anna.100225@example.com,Anna,Anna Academy,marketingqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2026-06-27 01:17:26,2026-08-19 04:17:26,false
+100587,Laura.100587@example.com,Laura,Laura Consulting,opportunity,PAID_SEARCH,gads_online_course_platform,2025-09-06 06:58:09,2025-10-22 09:58:09,false
+100551,lukas.100551@example.com,Lukas,Lukas Training GmbH,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-04-23 05:02:33,2026-06-21 08:02:33,true
+100649,mia.100649@example.com,Mia,Mia Akademie,marketingqualifiedlead,REFERRALS,,2025-03-07 10:27:52,2025-03-19 13:27:52,false
+100058,sara.100058@example.com,Sara,Sara Consulting,customer,ORGANIC_SEARCH,,2025-03-11 13:24:28,2025-03-11 16:24:28,false
+100419,  BEN.100419@EXAMPLE.COM ,Ben,Ben Coaching,lead,ORGANIC_SEARCH,,2026-02-14 13:28:29,2026-02-23 16:28:29,false
+100312,felix.100312@example.com,Felix,Felix Coaching,customer,EMAIL_MARKETING,webinar_followup,2026-04-24 12:14:19,2026-05-30 15:14:19,false
+100586,noah.100586@example.com,Noah,Noah Akademie,subscriber,ORGANIC_SEARCH,,2025-05-12 15:42:47,2025-06-21 18:42:47,false
+100059,leon.100059@example.com,Leon,Leon Studio,lead,PAID_SOCIAL,meta_lookalike,2025-10-19 07:40:56,2025-12-04 10:40:56,false
+100645,hannah.100645@example.com,Hannah,Hannah Academy,subscriber,EMAIL_MARKETING,webinar_followup,2025-08-21 12:41:20,2025-09-20 15:41:20,false
+100698,julia.100698@example.com,Julia,Julia Coaching,opportunity,ORGANIC_SEARCH,,2025-01-16 21:19:34,2025-03-18 00:19:34,false
+100089,tim.100089@example.com,Tim,Tim Akademie,lead,PAID_SOCIAL,meta_coaches_q1,2026-08-27 06:34:18,2026-09-15 00:00:00,true
+100093,hannah.100093@example.com,Hannah,Hannah Akademie,customer,ORGANIC_SEARCH,,2025-01-24 01:01:35,2025-02-10 04:01:35,false
+100388,julia.100388@example.com,Julia,Julia Studio,lead,PAID_SEARCH,gads_lms_competitor,2025-01-23 19:02:19,2025-03-14 22:02:19,false
+100156,tim.100156@example.com,Tim,Tim Academy,salesqualifiedlead,ORGANIC_SEARCH,,2025-08-17 07:38:40,2025-09-16 10:38:40,false
+100592,nina.100592@example.com,Nina,Nina Akademie,subscriber,ORGANIC_SEARCH,,2025-11-18 10:08:16,2025-12-12 13:08:16,false
+100630,  LEON.100630@EXAMPLE.COM ,Leon,Leon Academy,lead,DIRECT_TRAFFIC,,2025-08-23 07:05:24,2025-08-23 09:05:24,false
+100451,sophie.100451@example.com,Sophie,Sophie Consulting,subscriber,DIRECT_TRAFFIC,,2025-03-02 07:21:04,2025-03-19 10:21:04,true
+100076,Ben.100076@example.com,Ben,Ben Academy,lead,ORGANIC_SEARCH,,2025-07-02 05:40:21,2025-07-02 07:40:21,false
+100595,sara.100595@example.com,Sara,Sara Akademie,salesqualifiedlead,DIRECT_TRAFFIC,,2025-12-12 09:21:44,2026-02-09 12:21:44,false
+100668,  HANNAH.100668@EXAMPLE.COM ,Hannah,Hannah Studio,customer,ORGANIC_SEARCH,,2026-02-10 00:30:28,2026-03-10 03:30:28,false
+100664,emma.100664@example.com,Emma,Emma Studio,opportunity,ORGANIC_SEARCH,,2025-08-02 13:52:32,2025-09-23 16:52:32,false
+100136,sophie.100136@example.com,Sophie,Sophie Training GmbH,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-02-16 03:29:28,2026-02-27 06:29:28,false
+100383,laura.100383@example.com,Laura,Laura Coaching,marketingqualifiedlead,ORGANIC_SEARCH,,2025-02-15 13:28:25,2025-04-07 16:28:25,false
+100035,david.100035@example.com,David,David Training GmbH,lead,DIRECT_TRAFFIC,,2026-03-13 19:38:02,2026-04-03 22:38:02,false
+100437,sophie.100437@example.com,Sophie,Sophie Academy,lead,ORGANIC_SEARCH,,2025-07-22 10:35:24,2025-07-22 12:35:24,false
+100696,felix.100696@example.com,Felix,Felix Coaching,marketingqualifiedlead,REFERRALS,,2025-08-13 13:34:54,2025-08-30 16:34:54,false
+100016,emma.100016@example.com,Emma,Emma Academy,lead,EMAIL_MARKETING,newsletter,2026-05-15 16:09:02,2026-07-14 19:09:02,false
+100381,leon.100381@example.com,Leon,Leon Akademie,lead,PAID_SOCIAL,meta_lookalike,2025-07-31 01:20:38,2025-08-24 04:20:38,false
+100424,ben.100424@example.com,Ben,Ben Studio,lead,PAID_SEARCH,gads_lms_competitor,2025-01-21 02:29:56,2025-01-23 05:29:56,false
+100168,jonas.100168@example.com,Jonas,Jonas Akademie,lead,DIRECT_TRAFFIC,,2026-05-31 10:04:53,2026-07-24 13:04:53,false
+100517,hannah.100517@example.com,Hannah,Hannah Studio,customer,PAID_SEARCH,gads_online_course_platform,2025-12-09 02:26:04,2026-01-03 05:26:04,false
+100640,hannah.100640@example.com,Hannah,Hannah Consulting,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-05-04 06:17:20,2026-05-04 08:17:20,false
+100232,  HANNAH.100232@EXAMPLE.COM ,Hannah,Hannah Training GmbH,subscriber,PAID_SEARCH,gads_online_course_platform,2026-01-23 13:48:07,2026-03-12 16:48:07,false
+100429,nina.100429@example.com,Nina,Nina Academy,subscriber,PAID_SEARCH,gads_brand,2026-04-20 11:11:38,2026-05-20 14:11:38,false
+100161,emma.100161@example.com,Emma,Emma Akademie,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-01-03 04:06:48,2025-02-05 07:06:48,false
+100361,felix.100361@example.com,Felix,Felix Coaching,lead,ORGANIC_SEARCH,,2025-05-27 06:37:49,2025-06-23 09:37:49,false
+100127,noah.100127@example.com,Noah,Noah Coaching,subscriber,ORGANIC_SEARCH,,2025-02-25 03:47:08,2025-04-04 06:47:08,false
+100331,sara.100331@example.com,Sara,Sara Akademie,lead,ORGANIC_SEARCH,,2026-04-04 03:41:20,2026-04-04 05:41:20,false
+100211,laura.100211@example.com,Laura,Laura Coaching,subscriber,PAID_SOCIAL,meta_lookalike,2025-03-14 08:30:33,2025-03-17 11:30:33,false
+100511,Anna.100511@example.com,Anna,Anna Training GmbH,customer,PAID_SOCIAL,linkedin_b2b_onboarding,2026-07-19 03:41:30,2026-09-04 06:41:30,false
+100021,lukas.100021@example.com,Lukas,Lukas Coaching,lead,DIRECT_TRAFFIC,,2025-08-13 20:03:19,2025-09-11 23:03:19,false
+100502,hannah.100502@example.com,Hannah,Hannah Consulting,customer,PAID_SEARCH,gads_brand,2025-05-27 17:28:18,2025-05-31 20:28:18,false
+100532,julia.100532@example.com,Julia,Julia Coaching,customer,ORGANIC_SEARCH,,2026-07-27 01:23:49,2026-07-31 04:23:49,false
+100685,emma.100685@example.com,Emma,Emma Academy,subscriber,ORGANIC_SEARCH,,2026-04-24 14:53:45,2026-04-27 17:53:45,false
+100613,nina.100613@example.com,Nina,Nina Studio,lead,REFERRALS,,2026-08-08 09:20:49,2026-09-04 12:20:49,false
+100309,mia.100309@example.com,Mia,Mia Studio,customer,ORGANIC_SEARCH,,2025-06-14 01:33:16,2025-07-22 04:33:16,false
+100557,paul.100557@example.com,Paul,Paul Studio,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2026-02-28 05:21:05,2026-03-18 08:21:05,false
+100308,lukas.100308@example.com,Lukas,Lukas Akademie,lead,PAID_SOCIAL,linkedin_b2b_onboarding,2026-03-21 09:56:57,2026-05-18 12:56:57,false
+100227,sara.100227@example.com,Sara,Sara Akademie,salesqualifiedlead,PAID_SEARCH,gads_online_course_platform,2025-11-23 12:25:31,2025-11-28 15:25:31,false
+100513,david.100513@example.com,David,David Consulting,customer,DIRECT_TRAFFIC,,2025-08-05 13:41:11,2025-08-16 16:41:11,false
+100350,jonas.100350@example.com,Jonas,Jonas Academy,lead,PAID_SOCIAL,meta_lookalike,2026-02-01 02:05:07,2026-03-12 05:05:07,false
+100049,leon.100049@example.com,Leon,Leon Akademie,salesqualifiedlead,REFERRALS,,2025-04-19 17:49:12,2025-06-12 20:49:12,false
+100137,sara.100137@example.com,Sara,Sara Akademie,subscriber,PAID_SOCIAL,meta_coaches_q1,2025-02-17 14:05:14,2025-02-26 17:05:14,false
+100147,max.100147@example.com,Max,Max Academy,lead,ORGANIC_SEARCH,,2025-09-09 02:25:21,2025-09-22 05:25:21,false
+100005,leon.100005@example.com,Leon,Leon Training GmbH,customer,PAID_SEARCH,gads_lms_competitor,2026-06-05 18:46:08,2026-07-01 21:46:08,false
+100118,julia.100118@example.com,Julia,Julia Akademie,lead,PAID_SEARCH,gads_lms_competitor,2026-04-09 14:06:42,2026-04-09 16:06:42,false
+100687,felix.100687@example.com,Felix,Felix Training GmbH,salesqualifiedlead,ORGANIC_SEARCH,,2026-02-21 12:19:40,2026-04-20 15:19:40,false
+100360,  LAURA.100360@EXAMPLE.COM ,Laura,Laura Academy,subscriber,REFERRALS,,2025-03-17 23:03:26,2025-05-11 02:03:26,false
+100637,anna.100637@example.com,Anna,Anna Coaching,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2025-06-30 12:04:46,2025-07-01 15:04:46,false
+100131,anna.100131@example.com,Anna,Anna Coaching,customer,DIRECT_TRAFFIC,,2026-02-15 23:31:47,2026-04-14 02:31:47,false
+100271,felix.100271@example.com,Felix,Felix Akademie,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-04-15 08:22:59,2026-05-24 11:22:59,false
+100485,paul.100485@example.com,Paul,Paul Akademie,subscriber,PAID_SEARCH,gads_lms_competitor,2025-08-20 20:41:22,2025-09-11 23:41:22,false
+100088,leon.100088@example.com,Leon,Leon Studio,marketingqualifiedlead,EMAIL_MARKETING,webinar_followup,2026-01-24 20:43:59,2026-03-24 23:43:59,false
+100627,felix.100627@example.com,Felix,Felix Studio,marketingqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-08-16 19:28:25,2025-09-04 22:28:25,false
+100111,david.100111@example.com,David,David Coaching,customer,ORGANIC_SEARCH,,2025-01-27 11:12:59,2025-03-23 14:12:59,false
+100315,tim.100315@example.com,Tim,Tim Training GmbH,lead,ORGANIC_SEARCH,,2025-07-27 14:17:50,2025-07-27 16:17:50,false
+100050,emma.100050@example.com,Emma,Emma Academy,subscriber,DIRECT_TRAFFIC,,2026-03-05 10:27:26,2026-03-30 13:27:26,false
+100118,julia.100118@example.com,Julia,Julia Akademie,subscriber,PAID_SEARCH,gads_lms_competitor,2026-04-09 14:06:42,2026-04-30 17:06:42,false
+100024,max.100024@example.com,Max,Max Consulting,subscriber,ORGANIC_SEARCH,,2025-04-20 05:11:43,2025-06-07 08:11:43,false
+100500,anna.100500@example.com,Anna,Anna Training GmbH,salesqualifiedlead,DIRECT_TRAFFIC,,2026-03-02 03:22:27,2026-04-16 06:22:27,false
+100256,mia.100256@example.com,Mia,Mia Studio,opportunity,ORGANIC_SEARCH,,2026-06-17 16:49:14,2026-06-27 19:49:14,false
+100363,  JONAS.100363@EXAMPLE.COM ,Jonas,Jonas Studio,lead,REFERRALS,,2025-07-08 01:03:44,2025-08-13 04:03:44,false
+100531,sophie.100531@example.com,Sophie,Sophie Coaching,customer,REFERRALS,,2026-02-25 16:36:33,2026-04-26 19:36:33,false
+100455,hannah.100455@example.com,Hannah,Hannah Consulting,customer,EMAIL_MARKETING,newsletter,2025-08-19 01:03:44,2025-09-15 04:03:44,false
+100504,leon.100504@example.com,Leon,Leon Coaching,salesqualifiedlead,PAID_SOCIAL,meta_lookalike,2026-05-06 02:56:28,2026-05-25 05:56:28,false
+100290,mia.100290@example.com,Mia,Mia Studio,customer,ORGANIC_SEARCH,,2026-01-18 16:26:13,2026-02-11 19:26:13,false
+100607,paul.100607@example.com,Paul,Paul Coaching,marketingqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-07-09 13:28:34,2026-08-28 16:28:34,false
+100617,lukas.100617@example.com,Lukas,Lukas Academy,subscriber,PAID_SOCIAL,linkedin_b2b_onboarding,2026-05-30 16:31:16,2026-06-01 19:31:16,false
+100700,sara.100700@example.com,Sara,Sara Studio,salesqualifiedlead,PAID_SEARCH,gads_lms_competitor,2026-06-23 20:34:38,2026-07-16 23:34:38,false
+100206,  PAUL.100206@EXAMPLE.COM ,Paul,Paul Studio,salesqualifiedlead,ORGANIC_SEARCH,,2025-05-17 18:03:56,2025-06-27 21:03:56,false
+100366,lea.100366@example.com,Lea,Lea Consulting,lead,PAID_SEARCH,gads_lms_competitor,2025-09-09 11:29:45,2025-11-06 14:29:45,false
+100113,emma.100113@example.com,Emma,Emma Coaching,lead,ORGANIC_SEARCH,,2025-12-30 06:20:23,2026-01-19 09:20:23,false
+100134,noah.100134@example.com,Noah,Noah Coaching,lead,ORGANIC_SEARCH,,2025-09-22 23:12:49,2025-11-04 02:12:49,false
+100333,sara.100333@example.com,Sara,Sara Coaching,customer,REFERRALS,,2025-06-21 16:37:12,2025-07-19 19:37:12,false
+100418,noah.100418@example.com,Noah,Noah Coaching,opportunity,PAID_SOCIAL,meta_lookalike,2025-06-09 08:25:03,2025-07-10 11:25:03,false
+100392,sophie.100392@example.com,Sophie,Sophie Studio,salesqualifiedlead,PAID_SOCIAL,meta_coaches_q1,2025-02-28 09:06:49,2025-04-10 12:06:49,false
+100634,nina.100634@example.com,Nina,Nina Coaching,customer,PAID_SEARCH,gads_brand,2026-01-31 03:51:02,2026-03-08 06:51:02,false
+100577,tim.100577@example.com,Tim,Tim Studio,lead,ORGANIC_SEARCH,,2026-06-25 11:22:46,2026-06-25 13:22:46,false
+100662,max.100662@example.com,Max,Max Studio,marketingqualifiedlead,PAID_SOCIAL,linkedin_b2b_onboarding,2025-06-07 12:35:39,2025-07-29 15:35:39,false

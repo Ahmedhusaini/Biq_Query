@@ -1,0 +1,12 @@
+snapshots:
+  - name: contacts_snapshot
+    description: >
+      SCD Type 2 history of HubSpot contacts. Every time a contact's lifecycle stage
+      (or any tracked column) changes, a new row is written with dbt_valid_from /
+      dbt_valid_to. This is how you answer "when did this contact become an MQL?"
+      even though HubSpot only shows the current stage.
+    relation: ref('stg_hubspot__contacts')
+    config:
+      unique_key: contact_id
+      strategy: timestamp
+      updated_at: updated_at

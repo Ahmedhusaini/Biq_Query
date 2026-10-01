@@ -1,0 +1,22 @@
+# Two targets:
+#   dev  -> local DuckDB file, zero setup, good for practising
+#   prod -> BigQuery (fill in your GCP project; auth via `gcloud auth application-default login`)
+#
+# Run against BigQuery with:  dbt build --target prod
+memberspot_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: memberspot.duckdb
+      threads: 4
+
+    prod:
+      type: bigquery
+      method: oauth                 # or: service-account + keyfile
+      project: "{{ env_var('GCP_PROJECT', 'your-gcp-project-id') }}"
+      dataset: analytics            # base dataset; custom schemas become raw, staging, marts ...
+      location: EU                  # keep data in the EU (GDPR)
+      threads: 8
+      job_execution_timeout_seconds: 300
+      maximum_bytes_billed: 1000000000   # 1 GB safety cap per query

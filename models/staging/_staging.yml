@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: stg_hubspot__contacts
+    description: One row per HubSpot contact (latest version), cleaned and renamed.
+    columns:
+      - name: contact_id
+        description: HubSpot contact id. Also the user_id in product events.
+        data_tests: [unique, not_null]
+      - name: email
+        description: Lower-cased, trimmed email.
+        data_tests: [not_null]
+      - name: lifecycle_stage
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [subscriber, lead, marketingqualifiedlead, salesqualifiedlead, opportunity, customer]
+      - name: channel
+        description: Readable acquisition channel, see macro channel_from_hubspot_source.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [Organic Search, Paid Search, Paid Social, Email, Referral, Direct]
+      - name: created_at
+        data_tests: [not_null, not_in_future]
+
+  - name: stg_hubspot__deals
+    columns:
+      - name: deal_id
+        data_tests: [unique, not_null]
+      - name: contact_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_hubspot__contacts')
+                field: contact_id
+      - name: deal_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [won, lost, open]
+      - name: amount_eur
+        data_tests: [non_negative]
+
+  - name: stg_product__events
+    columns:
+      - name: event_id
+        data_tests: [unique, not_null]
+      - name: user_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_hubspot__contacts')
+                field: contact_id
+
+  - name: stg_billing__subscriptions
+    columns:
+      - name: subscription_id
+        data_tests: [unique, not_null]
+      - name: contact_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_hubspot__contacts')
+                field: contact_id
+      - name: plan
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [basic, pro, business]
+      - name: mrr_eur
+        data_tests: [not_null, non_negative]

@@ -1,0 +1,57 @@
+name: memberspot_analytics
+version: "1.0.0"
+config-version: 2
+
+profile: memberspot_analytics
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+analysis-paths: ["analyses"]
+
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # How many days back the incremental event model re-processes,
+  # to pick up late-arriving events.
+  event_lookback_days: 3
+  # First month of the MRR time series.
+  reporting_start_date: '2025-01-01'
+
+seeds:
+  memberspot_analytics:
+    # Seeds stand in for the raw layer the HubSpot / tracking loaders
+    # would write. In production these tables are written by extract/.
+    +schema: raw
+    # BigQuery calls the type INT64, DuckDB calls it BIGINT
+    hubspot_contacts:
+      +column_types:
+        contact_id: "{{ 'int64' if target.type == 'bigquery' else 'bigint' }}"
+    product_events:
+      +column_types:
+        user_id: "{{ 'int64' if target.type == 'bigquery' else 'bigint' }}"
+
+models:
+  memberspot_analytics:
+    staging:
+      +schema: staging
+      +materialized: view
+    intermediate:
+      +schema: intermediate
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table
+      marketing:
+        +tags: ["marketing"]
+      product:
+        +tags: ["product"]
+      finance:
+        +tags: ["finance"]
+
+snapshots:
+  memberspot_analytics:
+    +target_schema: snapshots
